@@ -41,4 +41,5 @@ yarn-error.log*
 next-env.d.ts
 
 # o exemplo de env vai junto, ele so tem placeholder
+# (fica por ultimo: a CLI da Vercel gosta de reescrever .env* no fim do arquivo)
 !.env.example
