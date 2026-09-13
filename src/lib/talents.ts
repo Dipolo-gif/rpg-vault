@@ -248,7 +248,7 @@ export const TALENTOS: TalentoCatalogo[] = [
     "nome": "Atirador aguçado",
     "fonte": "compendio",
     "requisito": null,
-    "texto": "Você dominou o uso de armas à distância e pode realizar tiros que seriam impossíveis para outros. Você ganha os seguintes benefícios:   Atacar um alvo além da distância normal não impõe desvantagem nas suas jogadas de ataque com armas à distância.   Seus ataques com armas à distância ignoram meia cobertura e três-quartos de cobertura.   Antes de realizar um ataque com uma arma à distância na qual você seja proficiente, você pode escolher sofrer –5 de penalidade na jogada de ataque. Se o ataque atingir, você adiciona +10 no dano do ataque.",
+    "texto": "Você dominou o uso de armas à distância e pode realizar tiros que seriam impossíveis para outros. Você ganha os seguintes benefícios:   Atacar um alvo além da distância normal não impõe desvantagem nas suas jogadas de ataque com armas à distância.   Seus ataques com armas à distância ignoram meia cobertura e três-quartos de cobertura.   Antes de realizar um ataque com uma arma à distância na qual você seja proficiente, você pode escolher sofrer -5 de penalidade na jogada de ataque. Se o ataque atingir, você adiciona +10 no dano do ataque.",
     "effects": {},
     "avisos": []
   },
@@ -813,7 +813,7 @@ export const TALENTOS: TalentoCatalogo[] = [
     "nome": "Mestre de armas grandes",
     "fonte": "compendio",
     "requisito": null,
-    "texto": "Você aprendeu a usar o peso em sua vantagem, deixando o balanço potencializar seus golpes. Você recebe os seguintes benefícios:   No seu turno, quando você atingir um acerto crítico com uma arma corpo-a-corpo ou reduzir os pontos de vida de uma criatura a 0, você pode realizar um ataque corpo-a-corpo com arma, com uma ação bônus.   Antes de você realizar um ataque corpo-a-corpo com uma arma pesada na qual você seja proficiente, você pode escolher sofrer –5 de penalidade em sua jogada de ataque. Se o ataque atingir, você adiciona +10 ao dano do ataque.",
+    "texto": "Você aprendeu a usar o peso em sua vantagem, deixando o balanço potencializar seus golpes. Você recebe os seguintes benefícios:   No seu turno, quando você atingir um acerto crítico com uma arma corpo-a-corpo ou reduzir os pontos de vida de uma criatura a 0, você pode realizar um ataque corpo-a-corpo com arma, com uma ação bônus.   Antes de você realizar um ataque corpo-a-corpo com uma arma pesada na qual você seja proficiente, você pode escolher sofrer -5 de penalidade em sua jogada de ataque. Se o ataque atingir, você adiciona +10 ao dano do ataque.",
     "effects": {},
     "avisos": []
   },

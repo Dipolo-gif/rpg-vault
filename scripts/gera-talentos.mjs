@@ -104,6 +104,10 @@ function juntaParagrafo(linhas) {
     .replace(/\n/g, " ")
     .replace(/\s{2,}/g, " ")
     .replace(marcador, "  ")
+    // Travess\u00E3o e meia-risca do PDF n\u00E3o entram no app: antes de n\u00FAmero
+    // \u00E9 sinal de menos, no meio da frase vira v\u00EDrgula.
+    .replace(/[\u2013\u2014](?=\s*\d)/g, "-")
+    .replace(/\s*[\u2013\u2014]\s*/g, ", ")
     .replace(/^\s+/, "")
     .trim();
 }
@@ -117,7 +121,7 @@ function detectaEfeitos(texto) {
   const effects = {};
   const avisos = [];
 
-  // "Aumente seu valor de Destreza em 1" — com escolha, deixa para o usuario.
+  // "Aumente seu valor de Destreza em 1". Com escolha, deixa para o usuario.
   const aumentos = [...texto.matchAll(/aumente seu (?:valor|atributo) de ([^,\.]+?) em 1/gi)];
   for (const [, alvo] of aumentos) {
     const limpo = alvo.toLowerCase().replace(/\(.*?\)/g, "").trim();
