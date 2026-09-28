@@ -1,0 +1,43 @@
+name: Manter o Supabase acordado
+
+# O plano gratuito do Supabase pausa o projeto depois de 7 dias sem nenhuma
+# requisicao, e despausar leva minutos com o app fora do ar. Esta tarefa faz
+# uma consulta minima a cada 3 dias, so para contar como uso.
+#
+# Para desligar: apague este arquivo, ou use Actions > Manter o Supabase
+# acordado > Disable workflow no GitHub.
+
+on:
+  schedule:
+    # 12:00 UTC (9h no horario de Brasilia) nos dias 1, 4, 7, 10...
+    - cron: "0 12 */3 * *"
+  # Permite rodar na mao pelo botao "Run workflow".
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Consulta o banco
+        env:
+          URL: ${{ secrets.SUPABASE_URL }}
+          KEY: ${{ secrets.SUPABASE_PUBLISHABLE_KEY }}
+        run: |
+          if [ -z "$URL" ] || [ -z "$KEY" ]; then
+            echo "Faltam os secrets SUPABASE_URL e SUPABASE_PUBLISHABLE_KEY."
+            echo "Cadastre em Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
+          codigo=$(curl -s -o /dev/null -w '%{http_code}' --max-time 30 \
+            -H "apikey: $KEY" -H "Authorization: Bearer $KEY" \
+            "$URL/rest/v1/characters?select=id&limit=1")
+
+          echo "Resposta do Supabase: $codigo"
+
+          # 200 e o esperado. 401 e 404 tambem provam que o projeto esta de pe,
+          # mas indicam chave ou tabela trocada, entao avisam falhando.
+          if [ "$codigo" != "200" ]; then
+            echo "Esperava 200. Projeto pausado, chave errada ou tabela renomeada."
+            exit 1
+          fi
