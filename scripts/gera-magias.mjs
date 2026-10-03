@@ -17,10 +17,65 @@
  * Saida: src/lib/spell-catalog.json (nao edite na mao, rode o script).
  */
 
-import { writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync } from "node:fs";
+
+import { NOMES_PT } from "../src/lib/spell-names-pt.ts";
 
 const INDICE = "https://dnd5e.wikidot.com/spells";
 const SAIDA = new URL("../src/lib/spell-catalog.json", import.meta.url);
+
+/**
+ * Nome em português.
+ *
+ * Primeiro a lista escrita à mão, que tem os nomes de mesa. O resto vai para
+ * o MyMemory, que acerta a maioria dos nomes compostos. O serviço tem cota
+ * diária por IP, então o script aproveita o que já está no catálogo e só
+ * traduz o que falta: se a cota acabar no meio, é só rodar de novo amanhã.
+ */
+async function traduzNome(nome) {
+  const url = new URL("https://api.mymemory.translated.net/get");
+  url.searchParams.set("q", nome);
+  url.searchParams.set("langpair", "en|pt-br");
+
+  try {
+    const resposta = await fetch(url, {
+      headers: { "user-agent": "rpg-vault/1.0 (gerador de catalogo)" },
+    });
+    if (!resposta.ok) return null;
+
+    const dados = await resposta.json();
+    if (Number(dados.responseStatus) !== 200) return null;
+
+    const texto = dados.responseData?.translatedText?.trim();
+    if (!texto || /MYMEMORY WARNING|QUERY LENGTH/i.test(texto)) return null;
+
+    // O serviço às vezes devolve ponto final e tudo em caixa alta.
+    const limpo = texto.replace(/\.$/, "").trim();
+    if (!limpo || limpo.toLowerCase() === nome.toLowerCase()) return null;
+
+    return limpo === limpo.toUpperCase()
+      ? limpo
+          .toLowerCase()
+          .replace(/(^|\s)(\p{L})/gu, (m) => m.toUpperCase())
+      : limpo;
+  } catch {
+    return null;
+  }
+}
+
+/** O que já foi traduzido antes, para não gastar cota de novo. */
+function catalogoAnterior() {
+  try {
+    const anterior = JSON.parse(readFileSync(SAIDA, "utf8"));
+    return new Map(
+      anterior
+        .filter((magia) => magia.nome_pt)
+        .map((magia) => [magia.slug, magia.nome_pt]),
+    );
+  } catch {
+    return new Map();
+  }
+}
 
 const ESCOLAS = {
   abjuration: "Abjuração",
@@ -190,6 +245,41 @@ grupos.forEach((linhas, nivel) => {
 
 magias.sort((a, b) => a.nivel - b.nivel || a.nome.localeCompare(b.nome, "en"));
 
+/* ------------------------------------------------------------------ */
+/* Nomes em português                                                   */
+/* ------------------------------------------------------------------ */
+
+const jaTraduzidos = catalogoAnterior();
+let novos = 0;
+let semCota = false;
+
+for (const magia of magias) {
+  const daMao = NOMES_PT[magia.slug];
+  if (daMao) {
+    magia.nome_pt = daMao;
+    continue;
+  }
+
+  const anterior = jaTraduzidos.get(magia.slug);
+  if (anterior) {
+    magia.nome_pt = anterior;
+    continue;
+  }
+
+  if (semCota) continue;
+
+  const traduzido = await traduzNome(magia.nome);
+  if (traduzido) {
+    magia.nome_pt = traduzido;
+    novos += 1;
+  } else {
+    semCota = true;
+  }
+
+  // Um respiro entre os pedidos, para não irritar o serviço gratuito.
+  await new Promise((resolve) => setTimeout(resolve, 350));
+}
+
 writeFileSync(SAIDA, `${JSON.stringify(magias, null, 2)}\n`, "utf8");
 
 const porNivel = magias.reduce((conta, m) => {
@@ -203,3 +293,13 @@ console.log(
     .map(([nivel, total]) => `${nivel === "0" ? "truque" : `nível ${nivel}`}: ${total}`)
     .join(", "),
 );
+
+const comNome = magias.filter((magia) => magia.nome_pt).length;
+console.log(
+  `nomes em português: ${comNome} de ${magias.length} (${novos} traduzidos agora)`,
+);
+if (semCota) {
+  console.log(
+    "A cota diária do tradutor acabou. Rode de novo amanhã para completar o resto.",
+  );
+}

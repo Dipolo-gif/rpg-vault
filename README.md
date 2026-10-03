@@ -199,7 +199,14 @@ O botão **Do guia** abre as 574 magias de
 [dnd5e.wikidot.com](https://dnd5e.wikidot.com/spells), com busca por nome e
 filtro por círculo. O catálogo guarda o que a ficha mostra, já em português e
 com as distâncias em metros: escola, tempo de conjuração, alcance, duração e
-componentes. Para atualizar:
+componentes.
+
+**Os 574 nomes estão em português**, escritos à mão em
+[`src/lib/spell-names-pt.ts`](src/lib/spell-names-pt.ts): os oficiais onde
+existem (Fireball é Bola de Fogo, Shield é Escudo Arcano) e uma tradução de
+mesa onde não existem, que é o caso do material de Xanathar, Tasha e dos
+testes (UA). O nome em inglês fica embaixo, menor, e a busca acha pelos dois.
+Na ficha entra o nome em português. Para atualizar:
 
 ```bash
 node scripts/gera-magias.mjs
@@ -228,10 +235,16 @@ passos, em [`src/lib/spell-text.ts`](src/lib/spell-text.ts):
    "slot". Depois um passo de concordância arruma o artigo que sobra trocado
    ("este magia" vira "esta magia").
 
-O resultado fica em memória, então reabrir a mesma magia não traduz de novo.
-Se o serviço estiver fora ou a cota do dia acabar, a tela mostra o texto em
-inglês avisando, em vez de entregar meia tradução. O botão **Ver o original**
-mostra o inglês quando você quiser conferir.
+**O resultado fica guardado na tabela `spell_texts`**, então cada magia é
+traduzida uma vez só, para sempre, e já chega pronta em qualquer aparelho onde
+você abrir o cofre. É regra pública de jogo, não dado de personagem, então
+essa tabela não é por usuário.
+
+O serviço gratuito limita por IP, e o IP da Vercel é compartilhado com o mundo
+inteiro, então ele acaba rápido lá. Quando o servidor não consegue, **a tela
+tenta pelo IP da sua casa** e manda o resultado de volta para o cofre guardar.
+Se nem assim der, aparece o texto em inglês avisando, em vez de meia tradução.
+O botão **Ver o original** mostra o inglês quando você quiser conferir.
 
 O texto não fica no repositório: é lido da página quando você abre. O botão
 **Guardar na ficha** copia o texto traduzido para a descrição daquela magia no

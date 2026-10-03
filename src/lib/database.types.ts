@@ -138,6 +138,22 @@ export type SpellRow = {
   updated_at: string;
 }
 
+/**
+ * Cache do texto das magias do guia, já traduzido. É regra pública de jogo,
+ * então a tabela não é por usuário: toda conta logada lê e grava.
+ */
+export type SpellTextRow = {
+  slug: string;
+  /** Em português. */
+  texto: string;
+  /** Como está na página, em inglês. */
+  original: string;
+  traduzido: boolean;
+  /** Dano, resistência, área e afins. */
+  destaques: Json;
+  updated_at: string;
+}
+
 export type AssetRow = {
   id: string;
   character_id: string;
@@ -229,6 +245,12 @@ export type Database = {
           | "updated_at"
         >;
         Update: Partial<CharacterStatsRow>;
+        Relationships: [];
+      };
+      spell_texts: {
+        Row: SpellTextRow;
+        Insert: Insert<SpellTextRow, "traduzido" | "destaques" | "updated_at">;
+        Update: Partial<SpellTextRow>;
         Relationships: [];
       };
       spells: {

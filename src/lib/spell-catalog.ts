@@ -15,7 +15,10 @@ import catalogo from "@/lib/spell-catalog.json";
 
 export type MagiaCatalogo = {
   slug: string;
+  /** Nome em ingles, como esta no guia. */
   nome: string;
+  /** Nome em portugues, que e o que aparece na ficha. */
+  nome_pt: string;
   /** 0 é truque. */
   nivel: number;
   escola: string;

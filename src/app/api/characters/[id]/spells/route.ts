@@ -57,7 +57,9 @@ export async function POST(request: Request, ctx: Ctx) {
     return fail("Magia não encontrada no guia", 404);
   }
 
-  const name = body.name?.trim() || doGuia?.nome;
+  // Na ficha vale o nome em português; o inglês fica no slug, para achar a
+  // página de novo.
+  const name = body.name?.trim() || doGuia?.nome_pt || doGuia?.nome;
   if (!name) return fail("A magia precisa de um nome", 422);
 
   const { count } = await supabase

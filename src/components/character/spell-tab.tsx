@@ -433,7 +433,9 @@ export function SpellTab({
         onOpenChange={setPickerOpen}
         characterId={characterId}
         nivelInicial={nivelAlvo}
-        jaTenho={spells.map((spell) => spell.name)}
+        jaTenho={spells.flatMap((spell) =>
+          spell.catalog_slug ? [spell.catalog_slug, spell.name] : [spell.name],
+        )}
         onAdded={(spell) => onSpellSaved(spell, true)}
       />
 

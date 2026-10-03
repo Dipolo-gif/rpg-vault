@@ -25,7 +25,10 @@ import { cn } from "@/lib/utils";
 
 type MagiaCatalogo = {
   slug: string;
+  /** Em inglês, como está no guia. */
   nome: string;
+  /** Em português, que é o que entra na ficha. */
+  nome_pt: string;
   nivel: number;
   escola: string;
   tempo: string;
@@ -43,7 +46,7 @@ const LIMITE = 60;
 function paraDetalhe(magia: MagiaCatalogo): AlvoDetalhe {
   return {
     slug: magia.slug,
-    nome: magia.nome,
+    nome: magia.nome_pt || magia.nome,
     nivel: magia.nivel,
     escola: magia.escola,
     tempo: magia.tempo,
@@ -88,8 +91,9 @@ export function SpellPicker({
   const [detalhe, setDetalhe] = useState<AlvoDetalhe | null>(null);
   const buscando = useRef(false);
 
+  // Vale tanto o nome quanto o slug: a magia pode ter sido renomeada na ficha.
   const tenho = useMemo(
-    () => new Set(jaTenho.map((nome) => nome.toLowerCase())),
+    () => new Set(jaTenho.map((chave) => chave.toLowerCase())),
     [jaTenho],
   );
 
@@ -124,7 +128,9 @@ export function SpellPicker({
     return catalogo.filter((magia) => {
       if (nivel !== "todos" && magia.nivel !== nivel) return false;
       if (!termo) return true;
+      // Busca pelos dois nomes: você lembra "Bola de Fogo" ou "Fireball".
       return (
+        magia.nome_pt.toLowerCase().includes(termo) ||
         magia.nome.toLowerCase().includes(termo) ||
         magia.escola.toLowerCase().includes(termo)
       );
@@ -210,7 +216,8 @@ export function SpellPicker({
           )}
 
           {filtradas.slice(0, LIMITE).map((magia) => {
-            const possuo = tenho.has(magia.nome.toLowerCase());
+            const possuo =
+              tenho.has(magia.slug) || tenho.has(magia.nome_pt.toLowerCase());
 
             return (
               <div
@@ -230,8 +237,14 @@ export function SpellPicker({
                     title="Ver o texto completo"
                     className="text-display cursor-pointer text-sm font-semibold underline-offset-4 hover:underline"
                   >
-                    {magia.nome}
+                    {magia.nome_pt || magia.nome}
                   </button>
+
+                  {magia.nome_pt && magia.nome_pt !== magia.nome && (
+                    <span className="text-[0.65rem] text-muted-foreground">
+                      {magia.nome}
+                    </span>
+                  )}
                   {magia.concentracao && (
                     <Badge variant="secondary" className="text-[0.65rem]">
                       concentração

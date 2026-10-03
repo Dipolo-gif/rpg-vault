@@ -293,10 +293,27 @@ export async function traduz(texto: string): Promise<Traducao> {
     saida.push(partes.join(" "));
   }
 
-  return {
-    texto: ajustaGenero(corrigeTermos(saida.join("\n\n"))),
-    traduzido: true,
-  };
+  return { texto: poli(saida.join("\n\n")), traduzido: true };
+}
+
+/**
+ * O acabamento de uma tradução crua: glossário de D&D e concordância.
+ *
+ * Fica exportado porque a tradução também pode vir do navegador, quando a
+ * cota do servidor acaba, e o acabamento tem que ser o mesmo nos dois casos.
+ */
+export function poli(texto: string): string {
+  return ajustaGenero(corrigeTermos(texto));
+}
+
+/**
+ * O texto pronto para traduzir fora daqui: distâncias já em metros, dividido
+ * em parágrafos e, dentro de cada um, em pedaços que o serviço aceita.
+ */
+export function preparaParaTraduzir(texto: string): string[][] {
+  return converteDistancias(texto)
+    .split("\n\n")
+    .map((paragrafo) => fatia(paragrafo));
 }
 
 export type Destaque = { rotulo: string; valor: string };

@@ -9,7 +9,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:acid-splash"
+    "link": "https://dnd5e.wikidot.com/spell:acid-splash",
+    "nome_pt": "Borrifada Ácida"
   },
   {
     "slug": "blade-ward",
@@ -21,7 +22,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:blade-ward"
+    "link": "https://dnd5e.wikidot.com/spell:blade-ward",
+    "nome_pt": "Proteção contra Lâminas"
   },
   {
     "slug": "booming-blade",
@@ -33,7 +35,8 @@
     "duracao": "1 rodada",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:booming-blade"
+    "link": "https://dnd5e.wikidot.com/spell:booming-blade",
+    "nome_pt": "Lâmina Estrondosa"
   },
   {
     "slug": "chill-touch",
@@ -45,7 +48,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:chill-touch"
+    "link": "https://dnd5e.wikidot.com/spell:chill-touch",
+    "nome_pt": "Toque Gélido"
   },
   {
     "slug": "control-flames",
@@ -57,7 +61,8 @@
     "duracao": "Instantânea ou 1 hora",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:control-flames"
+    "link": "https://dnd5e.wikidot.com/spell:control-flames",
+    "nome_pt": "Controlar Chamas"
   },
   {
     "slug": "create-bonfire",
@@ -69,7 +74,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:create-bonfire"
+    "link": "https://dnd5e.wikidot.com/spell:create-bonfire",
+    "nome_pt": "Criar Fogueira"
   },
   {
     "slug": "dancing-lights",
@@ -81,7 +87,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dancing-lights"
+    "link": "https://dnd5e.wikidot.com/spell:dancing-lights",
+    "nome_pt": "Luzes Dançantes"
   },
   {
     "slug": "druidcraft",
@@ -93,7 +100,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:druidcraft"
+    "link": "https://dnd5e.wikidot.com/spell:druidcraft",
+    "nome_pt": "Druidismo"
   },
   {
     "slug": "eldritch-blast",
@@ -105,7 +113,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:eldritch-blast"
+    "link": "https://dnd5e.wikidot.com/spell:eldritch-blast",
+    "nome_pt": "Rajada Mística"
   },
   {
     "slug": "encode-thoughts",
@@ -117,7 +126,8 @@
     "duracao": "8 horas",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:encode-thoughts"
+    "link": "https://dnd5e.wikidot.com/spell:encode-thoughts",
+    "nome_pt": "Codificar Pensamentos (UA)"
   },
   {
     "slug": "fire-bolt",
@@ -129,7 +139,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:fire-bolt"
+    "link": "https://dnd5e.wikidot.com/spell:fire-bolt",
+    "nome_pt": "Raio de Fogo"
   },
   {
     "slug": "friends",
@@ -141,7 +152,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:friends"
+    "link": "https://dnd5e.wikidot.com/spell:friends",
+    "nome_pt": "Amizade"
   },
   {
     "slug": "frostbite",
@@ -153,7 +165,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:frostbite"
+    "link": "https://dnd5e.wikidot.com/spell:frostbite",
+    "nome_pt": "Queimadura de Gelo"
   },
   {
     "slug": "green-flame-blade",
@@ -165,7 +178,8 @@
     "duracao": "Instantânea",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:green-flame-blade"
+    "link": "https://dnd5e.wikidot.com/spell:green-flame-blade",
+    "nome_pt": "Lâmina de Chama Verde"
   },
   {
     "slug": "guidance",
@@ -177,7 +191,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:guidance"
+    "link": "https://dnd5e.wikidot.com/spell:guidance",
+    "nome_pt": "Orientação"
   },
   {
     "slug": "gust",
@@ -189,7 +204,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:gust"
+    "link": "https://dnd5e.wikidot.com/spell:gust",
+    "nome_pt": "Rajada de Ar"
   },
   {
     "slug": "hand-of-radiance",
@@ -201,7 +217,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:hand-of-radiance"
+    "link": "https://dnd5e.wikidot.com/spell:hand-of-radiance",
+    "nome_pt": "Mão da Radiância (UA)"
   },
   {
     "slug": "infestation",
@@ -213,7 +230,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:infestation"
+    "link": "https://dnd5e.wikidot.com/spell:infestation",
+    "nome_pt": "Infestação"
   },
   {
     "slug": "light",
@@ -225,7 +243,8 @@
     "duracao": "1 hora",
     "componentes": "V, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:light"
+    "link": "https://dnd5e.wikidot.com/spell:light",
+    "nome_pt": "Luz"
   },
   {
     "slug": "lightning-lure",
@@ -237,7 +256,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:lightning-lure"
+    "link": "https://dnd5e.wikidot.com/spell:lightning-lure",
+    "nome_pt": "Atração Relâmpago"
   },
   {
     "slug": "mage-hand",
@@ -249,7 +269,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mage-hand"
+    "link": "https://dnd5e.wikidot.com/spell:mage-hand",
+    "nome_pt": "Mãos Mágicas"
   },
   {
     "slug": "magic-stone",
@@ -261,7 +282,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:magic-stone"
+    "link": "https://dnd5e.wikidot.com/spell:magic-stone",
+    "nome_pt": "Pedra Mágica"
   },
   {
     "slug": "mending",
@@ -273,7 +295,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mending"
+    "link": "https://dnd5e.wikidot.com/spell:mending",
+    "nome_pt": "Consertar"
   },
   {
     "slug": "message",
@@ -285,7 +308,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:message"
+    "link": "https://dnd5e.wikidot.com/spell:message",
+    "nome_pt": "Mensagem"
   },
   {
     "slug": "mind-sliver",
@@ -297,7 +321,8 @@
     "duracao": "1 rodada",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mind-sliver"
+    "link": "https://dnd5e.wikidot.com/spell:mind-sliver",
+    "nome_pt": "Lasca Mental"
   },
   {
     "slug": "minor-illusion",
@@ -309,7 +334,8 @@
     "duracao": "1 minuto",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:minor-illusion"
+    "link": "https://dnd5e.wikidot.com/spell:minor-illusion",
+    "nome_pt": "Ilusão Menor"
   },
   {
     "slug": "mold-earth",
@@ -321,7 +347,8 @@
     "duracao": "Instantânea ou 1 hora",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mold-earth"
+    "link": "https://dnd5e.wikidot.com/spell:mold-earth",
+    "nome_pt": "Moldar Terra"
   },
   {
     "slug": "on-off",
@@ -333,7 +360,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:on-off"
+    "link": "https://dnd5e.wikidot.com/spell:on-off",
+    "nome_pt": "Liga/Desliga (UA)"
   },
   {
     "slug": "poison-spray",
@@ -345,7 +373,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:poison-spray"
+    "link": "https://dnd5e.wikidot.com/spell:poison-spray",
+    "nome_pt": "Spray Venenoso"
   },
   {
     "slug": "prestidigitation",
@@ -357,7 +386,8 @@
     "duracao": "Até 1 hora",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:prestidigitation"
+    "link": "https://dnd5e.wikidot.com/spell:prestidigitation",
+    "nome_pt": "Prestidigitação"
   },
   {
     "slug": "primal-savagery",
@@ -369,7 +399,8 @@
     "duracao": "Instantânea",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:primal-savagery"
+    "link": "https://dnd5e.wikidot.com/spell:primal-savagery",
+    "nome_pt": "Selvageria Primal"
   },
   {
     "slug": "produce-flame",
@@ -381,7 +412,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:produce-flame"
+    "link": "https://dnd5e.wikidot.com/spell:produce-flame",
+    "nome_pt": "Produzir Chamas"
   },
   {
     "slug": "ray-of-frost",
@@ -393,7 +425,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:ray-of-frost"
+    "link": "https://dnd5e.wikidot.com/spell:ray-of-frost",
+    "nome_pt": "Raio de Gelo"
   },
   {
     "slug": "resistance",
@@ -405,7 +438,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:resistance"
+    "link": "https://dnd5e.wikidot.com/spell:resistance",
+    "nome_pt": "Resistência"
   },
   {
     "slug": "sacred-flame",
@@ -417,7 +451,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sacred-flame"
+    "link": "https://dnd5e.wikidot.com/spell:sacred-flame",
+    "nome_pt": "Chama Sagrada"
   },
   {
     "slug": "sapping-sting",
@@ -429,7 +464,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sapping-sting"
+    "link": "https://dnd5e.wikidot.com/spell:sapping-sting",
+    "nome_pt": "Ferroada Debilitante"
   },
   {
     "slug": "shape-water",
@@ -441,7 +477,8 @@
     "duracao": "Instantânea ou 1 hora",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:shape-water"
+    "link": "https://dnd5e.wikidot.com/spell:shape-water",
+    "nome_pt": "Moldar Água"
   },
   {
     "slug": "shillelagh",
@@ -453,7 +490,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:shillelagh"
+    "link": "https://dnd5e.wikidot.com/spell:shillelagh",
+    "nome_pt": "Shillelagh"
   },
   {
     "slug": "shocking-grasp",
@@ -465,7 +503,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:shocking-grasp"
+    "link": "https://dnd5e.wikidot.com/spell:shocking-grasp",
+    "nome_pt": "Choque"
   },
   {
     "slug": "spare-the-dying",
@@ -477,7 +516,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:spare-the-dying"
+    "link": "https://dnd5e.wikidot.com/spell:spare-the-dying",
+    "nome_pt": "Estabilizar"
   },
   {
     "slug": "sword-burst",
@@ -489,7 +529,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sword-burst"
+    "link": "https://dnd5e.wikidot.com/spell:sword-burst",
+    "nome_pt": "Explosão de Lâminas"
   },
   {
     "slug": "thaumaturgy",
@@ -501,7 +542,8 @@
     "duracao": "Até 1 minuto",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:thaumaturgy"
+    "link": "https://dnd5e.wikidot.com/spell:thaumaturgy",
+    "nome_pt": "Taumaturgia"
   },
   {
     "slug": "thorn-whip",
@@ -513,7 +555,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:thorn-whip"
+    "link": "https://dnd5e.wikidot.com/spell:thorn-whip",
+    "nome_pt": "Chicote de Espinhos"
   },
   {
     "slug": "thunderclap",
@@ -525,7 +568,8 @@
     "duracao": "Instantânea",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:thunderclap"
+    "link": "https://dnd5e.wikidot.com/spell:thunderclap",
+    "nome_pt": "Estrondo"
   },
   {
     "slug": "toll-the-dead",
@@ -537,7 +581,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:toll-the-dead"
+    "link": "https://dnd5e.wikidot.com/spell:toll-the-dead",
+    "nome_pt": "Dobre dos Mortos"
   },
   {
     "slug": "true-strike",
@@ -549,7 +594,8 @@
     "duracao": "Concentração, até 1 rodada",
     "componentes": "S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:true-strike"
+    "link": "https://dnd5e.wikidot.com/spell:true-strike",
+    "nome_pt": "Golpe Certeiro"
   },
   {
     "slug": "vicious-mockery",
@@ -561,7 +607,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:vicious-mockery"
+    "link": "https://dnd5e.wikidot.com/spell:vicious-mockery",
+    "nome_pt": "Escárnio Cruel"
   },
   {
     "slug": "virtue",
@@ -573,7 +620,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:virtue"
+    "link": "https://dnd5e.wikidot.com/spell:virtue",
+    "nome_pt": "Virtude (UA)"
   },
   {
     "slug": "word-of-radiance",
@@ -585,7 +633,8 @@
     "duracao": "Instantânea",
     "componentes": "V, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:word-of-radiance"
+    "link": "https://dnd5e.wikidot.com/spell:word-of-radiance",
+    "nome_pt": "Palavra Radiante"
   },
   {
     "slug": "absorb-elements",
@@ -597,7 +646,8 @@
     "duracao": "1 rodada",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:absorb-elements"
+    "link": "https://dnd5e.wikidot.com/spell:absorb-elements",
+    "nome_pt": "Absorver Elementos"
   },
   {
     "slug": "acid-stream",
@@ -609,7 +659,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:acid-stream"
+    "link": "https://dnd5e.wikidot.com/spell:acid-stream",
+    "nome_pt": "Jato de Ácido (UA)"
   },
   {
     "slug": "alarm",
@@ -621,7 +672,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:alarm"
+    "link": "https://dnd5e.wikidot.com/spell:alarm",
+    "nome_pt": "Alarme"
   },
   {
     "slug": "animal-friendship",
@@ -633,7 +685,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:animal-friendship"
+    "link": "https://dnd5e.wikidot.com/spell:animal-friendship",
+    "nome_pt": "Amizade Animal"
   },
   {
     "slug": "arcane-weapon",
@@ -645,7 +698,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:arcane-weapon"
+    "link": "https://dnd5e.wikidot.com/spell:arcane-weapon",
+    "nome_pt": "Arma Arcana (UA)"
   },
   {
     "slug": "armor-of-agathys",
@@ -657,7 +711,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:armor-of-agathys"
+    "link": "https://dnd5e.wikidot.com/spell:armor-of-agathys",
+    "nome_pt": "Armadura de Agathys"
   },
   {
     "slug": "arms-of-hadar",
@@ -669,7 +724,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:arms-of-hadar"
+    "link": "https://dnd5e.wikidot.com/spell:arms-of-hadar",
+    "nome_pt": "Braços de Hadar"
   },
   {
     "slug": "bane",
@@ -681,7 +737,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:bane"
+    "link": "https://dnd5e.wikidot.com/spell:bane",
+    "nome_pt": "Perdição"
   },
   {
     "slug": "beast-bond",
@@ -693,7 +750,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:beast-bond"
+    "link": "https://dnd5e.wikidot.com/spell:beast-bond",
+    "nome_pt": "Vínculo Animal"
   },
   {
     "slug": "bless",
@@ -705,7 +763,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:bless"
+    "link": "https://dnd5e.wikidot.com/spell:bless",
+    "nome_pt": "Abençoar"
   },
   {
     "slug": "burning-hands",
@@ -717,7 +776,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:burning-hands"
+    "link": "https://dnd5e.wikidot.com/spell:burning-hands",
+    "nome_pt": "Mãos Flamejantes"
   },
   {
     "slug": "catapult",
@@ -729,7 +789,8 @@
     "duracao": "Instantânea",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:catapult"
+    "link": "https://dnd5e.wikidot.com/spell:catapult",
+    "nome_pt": "Catapulta"
   },
   {
     "slug": "cause-fear",
@@ -741,7 +802,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:cause-fear"
+    "link": "https://dnd5e.wikidot.com/spell:cause-fear",
+    "nome_pt": "Causar Medo"
   },
   {
     "slug": "ceremony",
@@ -753,7 +815,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:ceremony"
+    "link": "https://dnd5e.wikidot.com/spell:ceremony",
+    "nome_pt": "Cerimônia"
   },
   {
     "slug": "chaos-bolt",
@@ -765,7 +828,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:chaos-bolt"
+    "link": "https://dnd5e.wikidot.com/spell:chaos-bolt",
+    "nome_pt": "Raio do Caos"
   },
   {
     "slug": "charm-person",
@@ -777,7 +841,8 @@
     "duracao": "1 hora",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:charm-person"
+    "link": "https://dnd5e.wikidot.com/spell:charm-person",
+    "nome_pt": "Enfeitiçar Pessoa"
   },
   {
     "slug": "chromatic-orb",
@@ -789,7 +854,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:chromatic-orb"
+    "link": "https://dnd5e.wikidot.com/spell:chromatic-orb",
+    "nome_pt": "Orbe Cromático"
   },
   {
     "slug": "color-spray",
@@ -801,7 +867,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:color-spray"
+    "link": "https://dnd5e.wikidot.com/spell:color-spray",
+    "nome_pt": "Borrifo de Cores"
   },
   {
     "slug": "command",
@@ -813,7 +880,8 @@
     "duracao": "1 rodada",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:command"
+    "link": "https://dnd5e.wikidot.com/spell:command",
+    "nome_pt": "Comando"
   },
   {
     "slug": "compelled-duel",
@@ -825,7 +893,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:compelled-duel"
+    "link": "https://dnd5e.wikidot.com/spell:compelled-duel",
+    "nome_pt": "Duelo Compelido"
   },
   {
     "slug": "comprehend-languages",
@@ -837,7 +906,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:comprehend-languages"
+    "link": "https://dnd5e.wikidot.com/spell:comprehend-languages",
+    "nome_pt": "Compreender Idiomas"
   },
   {
     "slug": "create-or-destroy-water",
@@ -849,7 +919,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:create-or-destroy-water"
+    "link": "https://dnd5e.wikidot.com/spell:create-or-destroy-water",
+    "nome_pt": "Criar ou Destruir Água"
   },
   {
     "slug": "cure-wounds",
@@ -861,7 +932,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:cure-wounds"
+    "link": "https://dnd5e.wikidot.com/spell:cure-wounds",
+    "nome_pt": "Curar Ferimentos"
   },
   {
     "slug": "detect-evil-and-good",
@@ -873,7 +945,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:detect-evil-and-good"
+    "link": "https://dnd5e.wikidot.com/spell:detect-evil-and-good",
+    "nome_pt": "Detectar o Bem e o Mal"
   },
   {
     "slug": "detect-magic",
@@ -885,7 +958,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:detect-magic"
+    "link": "https://dnd5e.wikidot.com/spell:detect-magic",
+    "nome_pt": "Detectar Magia"
   },
   {
     "slug": "detect-poison-and-disease",
@@ -897,7 +971,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:detect-poison-and-disease"
+    "link": "https://dnd5e.wikidot.com/spell:detect-poison-and-disease",
+    "nome_pt": "Detectar Veneno e Doença"
   },
   {
     "slug": "disguise-self",
@@ -909,7 +984,8 @@
     "duracao": "1 hora",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:disguise-self"
+    "link": "https://dnd5e.wikidot.com/spell:disguise-self",
+    "nome_pt": "Disfarçar-se"
   },
   {
     "slug": "dissonant-whispers",
@@ -921,7 +997,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:dissonant-whispers"
+    "link": "https://dnd5e.wikidot.com/spell:dissonant-whispers",
+    "nome_pt": "Sussurros Dissonantes"
   },
   {
     "slug": "distort-value",
@@ -933,7 +1010,8 @@
     "duracao": "8 horas",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:distort-value"
+    "link": "https://dnd5e.wikidot.com/spell:distort-value",
+    "nome_pt": "Distorcer Valor"
   },
   {
     "slug": "divine-favor",
@@ -945,7 +1023,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:divine-favor"
+    "link": "https://dnd5e.wikidot.com/spell:divine-favor",
+    "nome_pt": "Favor Divino"
   },
   {
     "slug": "earth-tremor",
@@ -957,7 +1036,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:earth-tremor"
+    "link": "https://dnd5e.wikidot.com/spell:earth-tremor",
+    "nome_pt": "Tremor de Terra"
   },
   {
     "slug": "ensnaring-strike",
@@ -969,7 +1049,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:ensnaring-strike"
+    "link": "https://dnd5e.wikidot.com/spell:ensnaring-strike",
+    "nome_pt": "Golpe Aprisionador"
   },
   {
     "slug": "entangle",
@@ -981,7 +1062,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:entangle"
+    "link": "https://dnd5e.wikidot.com/spell:entangle",
+    "nome_pt": "Enredar"
   },
   {
     "slug": "expeditious-retreat",
@@ -993,7 +1075,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:expeditious-retreat"
+    "link": "https://dnd5e.wikidot.com/spell:expeditious-retreat",
+    "nome_pt": "Retirada Expedita"
   },
   {
     "slug": "faerie-fire",
@@ -1005,7 +1088,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:faerie-fire"
+    "link": "https://dnd5e.wikidot.com/spell:faerie-fire",
+    "nome_pt": "Fogo Feérico"
   },
   {
     "slug": "false-life",
@@ -1017,7 +1101,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:false-life"
+    "link": "https://dnd5e.wikidot.com/spell:false-life",
+    "nome_pt": "Vida Falsa"
   },
   {
     "slug": "feather-fall",
@@ -1029,7 +1114,8 @@
     "duracao": "1 minuto",
     "componentes": "V, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:feather-fall"
+    "link": "https://dnd5e.wikidot.com/spell:feather-fall",
+    "nome_pt": "Queda Suave"
   },
   {
     "slug": "find-familiar",
@@ -1041,7 +1127,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:find-familiar"
+    "link": "https://dnd5e.wikidot.com/spell:find-familiar",
+    "nome_pt": "Encontrar Familiar"
   },
   {
     "slug": "fog-cloud",
@@ -1053,7 +1140,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:fog-cloud"
+    "link": "https://dnd5e.wikidot.com/spell:fog-cloud",
+    "nome_pt": "Nuvem de Névoa"
   },
   {
     "slug": "frost-fingers",
@@ -1065,7 +1153,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:frost-fingers"
+    "link": "https://dnd5e.wikidot.com/spell:frost-fingers",
+    "nome_pt": "Dedos de Gelo"
   },
   {
     "slug": "gift-of-alacrity",
@@ -1077,7 +1166,8 @@
     "duracao": "8 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:gift-of-alacrity"
+    "link": "https://dnd5e.wikidot.com/spell:gift-of-alacrity",
+    "nome_pt": "Dom da Prontidão"
   },
   {
     "slug": "goodberry",
@@ -1089,7 +1179,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:goodberry"
+    "link": "https://dnd5e.wikidot.com/spell:goodberry",
+    "nome_pt": "Fruta Boa"
   },
   {
     "slug": "grease",
@@ -1101,7 +1192,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:grease"
+    "link": "https://dnd5e.wikidot.com/spell:grease",
+    "nome_pt": "Graxa"
   },
   {
     "slug": "guiding-bolt",
@@ -1113,7 +1205,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:guiding-bolt"
+    "link": "https://dnd5e.wikidot.com/spell:guiding-bolt",
+    "nome_pt": "Projétil Guiado"
   },
   {
     "slug": "guiding-hand-ua",
@@ -1125,7 +1218,8 @@
     "duracao": "Concentração, até 8 horas",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:guiding-hand-ua"
+    "link": "https://dnd5e.wikidot.com/spell:guiding-hand-ua",
+    "nome_pt": "Mão Guia (UA)"
   },
   {
     "slug": "hail-of-thorns",
@@ -1137,7 +1231,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:hail-of-thorns"
+    "link": "https://dnd5e.wikidot.com/spell:hail-of-thorns",
+    "nome_pt": "Chuva de Espinhos"
   },
   {
     "slug": "healing-elixir-ua",
@@ -1149,7 +1244,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:healing-elixir-ua"
+    "link": "https://dnd5e.wikidot.com/spell:healing-elixir-ua",
+    "nome_pt": "Elixir de Cura (UA)"
   },
   {
     "slug": "healing-word",
@@ -1161,7 +1257,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:healing-word"
+    "link": "https://dnd5e.wikidot.com/spell:healing-word",
+    "nome_pt": "Palavra Curativa"
   },
   {
     "slug": "hellish-rebuke",
@@ -1173,7 +1270,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:hellish-rebuke"
+    "link": "https://dnd5e.wikidot.com/spell:hellish-rebuke",
+    "nome_pt": "Repreensão Infernal"
   },
   {
     "slug": "heroism",
@@ -1185,7 +1283,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:heroism"
+    "link": "https://dnd5e.wikidot.com/spell:heroism",
+    "nome_pt": "Heroísmo"
   },
   {
     "slug": "hex",
@@ -1197,7 +1296,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:hex"
+    "link": "https://dnd5e.wikidot.com/spell:hex",
+    "nome_pt": "Azar"
   },
   {
     "slug": "hunters-mark",
@@ -1209,7 +1309,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:hunters-mark"
+    "link": "https://dnd5e.wikidot.com/spell:hunters-mark",
+    "nome_pt": "Marca do Caçador"
   },
   {
     "slug": "ice-knife",
@@ -1221,7 +1322,8 @@
     "duracao": "Instantânea",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:ice-knife"
+    "link": "https://dnd5e.wikidot.com/spell:ice-knife",
+    "nome_pt": "Faca de Gelo"
   },
   {
     "slug": "id-insinuation",
@@ -1233,7 +1335,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:id-insinuation"
+    "link": "https://dnd5e.wikidot.com/spell:id-insinuation",
+    "nome_pt": "Insinuação do Id (UA)"
   },
   {
     "slug": "identify",
@@ -1245,7 +1348,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:identify"
+    "link": "https://dnd5e.wikidot.com/spell:identify",
+    "nome_pt": "Identificação"
   },
   {
     "slug": "illusory-script",
@@ -1257,7 +1361,8 @@
     "duracao": "10 dias",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:illusory-script"
+    "link": "https://dnd5e.wikidot.com/spell:illusory-script",
+    "nome_pt": "Escrita Ilusória"
   },
   {
     "slug": "infallible-relay",
@@ -1269,7 +1374,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:infallible-relay"
+    "link": "https://dnd5e.wikidot.com/spell:infallible-relay",
+    "nome_pt": "Transmissão Infalível (UA)"
   },
   {
     "slug": "inflict-wounds",
@@ -1281,7 +1387,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:inflict-wounds"
+    "link": "https://dnd5e.wikidot.com/spell:inflict-wounds",
+    "nome_pt": "Infligir Ferimentos"
   },
   {
     "slug": "jims-magic-missile",
@@ -1293,7 +1400,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:jims-magic-missile"
+    "link": "https://dnd5e.wikidot.com/spell:jims-magic-missile",
+    "nome_pt": "Mísseis Mágicos de Jim"
   },
   {
     "slug": "jump",
@@ -1305,7 +1413,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:jump"
+    "link": "https://dnd5e.wikidot.com/spell:jump",
+    "nome_pt": "Saltar"
   },
   {
     "slug": "longstrider",
@@ -1317,7 +1426,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:longstrider"
+    "link": "https://dnd5e.wikidot.com/spell:longstrider",
+    "nome_pt": "Passos Longos"
   },
   {
     "slug": "mage-armor",
@@ -1329,7 +1439,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mage-armor"
+    "link": "https://dnd5e.wikidot.com/spell:mage-armor",
+    "nome_pt": "Armadura Arcana"
   },
   {
     "slug": "magic-missile",
@@ -1341,7 +1452,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:magic-missile"
+    "link": "https://dnd5e.wikidot.com/spell:magic-missile",
+    "nome_pt": "Mísseis Mágicos"
   },
   {
     "slug": "magnify-gravity",
@@ -1353,7 +1465,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:magnify-gravity"
+    "link": "https://dnd5e.wikidot.com/spell:magnify-gravity",
+    "nome_pt": "Ampliar Gravidade"
   },
   {
     "slug": "protection-from-evil-and-good",
@@ -1365,7 +1478,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:protection-from-evil-and-good"
+    "link": "https://dnd5e.wikidot.com/spell:protection-from-evil-and-good",
+    "nome_pt": "Proteção contra o Bem e o Mal"
   },
   {
     "slug": "puppet",
@@ -1377,7 +1491,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:puppet"
+    "link": "https://dnd5e.wikidot.com/spell:puppet",
+    "nome_pt": "Marionete (UA)"
   },
   {
     "slug": "purify-food-and-drink",
@@ -1389,7 +1504,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:purify-food-and-drink"
+    "link": "https://dnd5e.wikidot.com/spell:purify-food-and-drink",
+    "nome_pt": "Purificar Comida e Bebida"
   },
   {
     "slug": "ray-of-sickness",
@@ -1401,7 +1517,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:ray-of-sickness"
+    "link": "https://dnd5e.wikidot.com/spell:ray-of-sickness",
+    "nome_pt": "Raio da Enfermidade"
   },
   {
     "slug": "remote-access",
@@ -1413,7 +1530,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:remote-access"
+    "link": "https://dnd5e.wikidot.com/spell:remote-access",
+    "nome_pt": "Acesso Remoto (UA)"
   },
   {
     "slug": "sanctuary",
@@ -1425,7 +1543,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sanctuary"
+    "link": "https://dnd5e.wikidot.com/spell:sanctuary",
+    "nome_pt": "Santuário"
   },
   {
     "slug": "searing-smite",
@@ -1437,7 +1556,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:searing-smite"
+    "link": "https://dnd5e.wikidot.com/spell:searing-smite",
+    "nome_pt": "Golpe Flamejante"
   },
   {
     "slug": "sense-emotion",
@@ -1449,7 +1569,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:sense-emotion"
+    "link": "https://dnd5e.wikidot.com/spell:sense-emotion",
+    "nome_pt": "Sentir Emoção (UA)"
   },
   {
     "slug": "shield",
@@ -1461,7 +1582,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:shield"
+    "link": "https://dnd5e.wikidot.com/spell:shield",
+    "nome_pt": "Escudo Arcano"
   },
   {
     "slug": "shield-of-faith",
@@ -1473,7 +1595,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:shield-of-faith"
+    "link": "https://dnd5e.wikidot.com/spell:shield-of-faith",
+    "nome_pt": "Escudo da Fé"
   },
   {
     "slug": "silent-image",
@@ -1485,7 +1608,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:silent-image"
+    "link": "https://dnd5e.wikidot.com/spell:silent-image",
+    "nome_pt": "Imagem Silenciosa"
   },
   {
     "slug": "silvery-barbs",
@@ -1497,7 +1621,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:silvery-barbs"
+    "link": "https://dnd5e.wikidot.com/spell:silvery-barbs",
+    "nome_pt": "Farpas Prateadas"
   },
   {
     "slug": "sleep",
@@ -1509,7 +1634,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sleep"
+    "link": "https://dnd5e.wikidot.com/spell:sleep",
+    "nome_pt": "Sono"
   },
   {
     "slug": "snare",
@@ -1521,7 +1647,8 @@
     "duracao": "8 horas",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:snare"
+    "link": "https://dnd5e.wikidot.com/spell:snare",
+    "nome_pt": "Armadilha"
   },
   {
     "slug": "speak-with-animals",
@@ -1533,7 +1660,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:speak-with-animals"
+    "link": "https://dnd5e.wikidot.com/spell:speak-with-animals",
+    "nome_pt": "Falar com Animais"
   },
   {
     "slug": "sudden-awakening",
@@ -1545,7 +1673,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sudden-awakening"
+    "link": "https://dnd5e.wikidot.com/spell:sudden-awakening",
+    "nome_pt": "Despertar Súbito (UA)"
   },
   {
     "slug": "tashas-caustic-brew",
@@ -1557,7 +1686,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:tashas-caustic-brew"
+    "link": "https://dnd5e.wikidot.com/spell:tashas-caustic-brew",
+    "nome_pt": "Beberagem Cáustica de Tasha"
   },
   {
     "slug": "tashas-hideous-laughter",
@@ -1569,7 +1699,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:tashas-hideous-laughter"
+    "link": "https://dnd5e.wikidot.com/spell:tashas-hideous-laughter",
+    "nome_pt": "Riso Horrível de Tasha"
   },
   {
     "slug": "tensers-floating-disk",
@@ -1581,7 +1712,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:tensers-floating-disk"
+    "link": "https://dnd5e.wikidot.com/spell:tensers-floating-disk",
+    "nome_pt": "Disco Flutuante de Tenser"
   },
   {
     "slug": "thunderous-smite",
@@ -1593,7 +1725,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:thunderous-smite"
+    "link": "https://dnd5e.wikidot.com/spell:thunderous-smite",
+    "nome_pt": "Golpe Trovejante"
   },
   {
     "slug": "thunderwave",
@@ -1605,7 +1738,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:thunderwave"
+    "link": "https://dnd5e.wikidot.com/spell:thunderwave",
+    "nome_pt": "Onda Trovejante"
   },
   {
     "slug": "unearthly-chorus",
@@ -1617,7 +1751,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:unearthly-chorus"
+    "link": "https://dnd5e.wikidot.com/spell:unearthly-chorus",
+    "nome_pt": "Coro Sobrenatural (UA)"
   },
   {
     "slug": "unseen-servant",
@@ -1629,7 +1764,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:unseen-servant"
+    "link": "https://dnd5e.wikidot.com/spell:unseen-servant",
+    "nome_pt": "Servo Invisível"
   },
   {
     "slug": "wild-cunning",
@@ -1641,7 +1777,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:wild-cunning"
+    "link": "https://dnd5e.wikidot.com/spell:wild-cunning",
+    "nome_pt": "Astúcia Selvagem (UA)"
   },
   {
     "slug": "witch-bolt",
@@ -1653,7 +1790,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:witch-bolt"
+    "link": "https://dnd5e.wikidot.com/spell:witch-bolt",
+    "nome_pt": "Raio Bruxo"
   },
   {
     "slug": "wrathful-smite",
@@ -1665,7 +1803,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wrathful-smite"
+    "link": "https://dnd5e.wikidot.com/spell:wrathful-smite",
+    "nome_pt": "Golpe Iracundo"
   },
   {
     "slug": "zephyr-strike",
@@ -1677,7 +1816,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:zephyr-strike"
+    "link": "https://dnd5e.wikidot.com/spell:zephyr-strike",
+    "nome_pt": "Golpe do Zéfiro"
   },
   {
     "slug": "aganazzars-scorcher",
@@ -1689,7 +1829,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:aganazzars-scorcher"
+    "link": "https://dnd5e.wikidot.com/spell:aganazzars-scorcher",
+    "nome_pt": "Chama Abrasadora de Aganazzar"
   },
   {
     "slug": "aid",
@@ -1701,7 +1842,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:aid"
+    "link": "https://dnd5e.wikidot.com/spell:aid",
+    "nome_pt": "Auxílio"
   },
   {
     "slug": "air-bubble",
@@ -1713,7 +1855,8 @@
     "duracao": "24 horas",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:air-bubble"
+    "link": "https://dnd5e.wikidot.com/spell:air-bubble",
+    "nome_pt": "Bolha de Ar"
   },
   {
     "slug": "alter-self",
@@ -1725,7 +1868,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:alter-self"
+    "link": "https://dnd5e.wikidot.com/spell:alter-self",
+    "nome_pt": "Alterar-se"
   },
   {
     "slug": "animal-messenger",
@@ -1737,7 +1881,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:animal-messenger"
+    "link": "https://dnd5e.wikidot.com/spell:animal-messenger",
+    "nome_pt": "Mensageiro Animal"
   },
   {
     "slug": "arcane-hacking",
@@ -1749,7 +1894,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:arcane-hacking"
+    "link": "https://dnd5e.wikidot.com/spell:arcane-hacking",
+    "nome_pt": "Invasão Arcana (UA)"
   },
   {
     "slug": "arcane-lock",
@@ -1761,7 +1907,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:arcane-lock"
+    "link": "https://dnd5e.wikidot.com/spell:arcane-lock",
+    "nome_pt": "Fechadura Arcana"
   },
   {
     "slug": "augury",
@@ -1773,7 +1920,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:augury"
+    "link": "https://dnd5e.wikidot.com/spell:augury",
+    "nome_pt": "Augúrio"
   },
   {
     "slug": "barkskin",
@@ -1785,7 +1933,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:barkskin"
+    "link": "https://dnd5e.wikidot.com/spell:barkskin",
+    "nome_pt": "Pele de Carvalho"
   },
   {
     "slug": "beast-sense",
@@ -1797,7 +1946,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:beast-sense"
+    "link": "https://dnd5e.wikidot.com/spell:beast-sense",
+    "nome_pt": "Sentidos Animais"
   },
   {
     "slug": "blindness-deafness",
@@ -1809,7 +1959,8 @@
     "duracao": "1 minuto",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:blindness-deafness"
+    "link": "https://dnd5e.wikidot.com/spell:blindness-deafness",
+    "nome_pt": "Cegueira ou Surdez"
   },
   {
     "slug": "blur",
@@ -1821,7 +1972,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:blur"
+    "link": "https://dnd5e.wikidot.com/spell:blur",
+    "nome_pt": "Embaçar"
   },
   {
     "slug": "borrowed-knowledge",
@@ -1833,7 +1985,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:borrowed-knowledge"
+    "link": "https://dnd5e.wikidot.com/spell:borrowed-knowledge",
+    "nome_pt": "Conhecimento Emprestado"
   },
   {
     "slug": "branding-smite",
@@ -1845,7 +1998,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:branding-smite"
+    "link": "https://dnd5e.wikidot.com/spell:branding-smite",
+    "nome_pt": "Golpe Marcante"
   },
   {
     "slug": "calm-emotions",
@@ -1857,7 +2011,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:calm-emotions"
+    "link": "https://dnd5e.wikidot.com/spell:calm-emotions",
+    "nome_pt": "Acalmar Emoções"
   },
   {
     "slug": "cloud-of-daggers",
@@ -1869,7 +2024,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:cloud-of-daggers"
+    "link": "https://dnd5e.wikidot.com/spell:cloud-of-daggers",
+    "nome_pt": "Nuvem de Adagas"
   },
   {
     "slug": "continual-flame",
@@ -1881,7 +2037,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:continual-flame"
+    "link": "https://dnd5e.wikidot.com/spell:continual-flame",
+    "nome_pt": "Chama Contínua"
   },
   {
     "slug": "cordon-of-arrows",
@@ -1893,7 +2050,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:cordon-of-arrows"
+    "link": "https://dnd5e.wikidot.com/spell:cordon-of-arrows",
+    "nome_pt": "Cordão de Flechas"
   },
   {
     "slug": "crown-of-madness",
@@ -1905,7 +2063,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:crown-of-madness"
+    "link": "https://dnd5e.wikidot.com/spell:crown-of-madness",
+    "nome_pt": "Coroa da Loucura"
   },
   {
     "slug": "darkness",
@@ -1917,7 +2076,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:darkness"
+    "link": "https://dnd5e.wikidot.com/spell:darkness",
+    "nome_pt": "Escuridão"
   },
   {
     "slug": "darkvision",
@@ -1929,7 +2089,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:darkvision"
+    "link": "https://dnd5e.wikidot.com/spell:darkvision",
+    "nome_pt": "Visão no Escuro"
   },
   {
     "slug": "detect-thoughts",
@@ -1941,7 +2102,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:detect-thoughts"
+    "link": "https://dnd5e.wikidot.com/spell:detect-thoughts",
+    "nome_pt": "Detectar Pensamentos"
   },
   {
     "slug": "digital-phantom",
@@ -1953,7 +2115,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:digital-phantom"
+    "link": "https://dnd5e.wikidot.com/spell:digital-phantom",
+    "nome_pt": "Fantasma Digital (UA)"
   },
   {
     "slug": "dragons-breath",
@@ -1965,7 +2128,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dragons-breath"
+    "link": "https://dnd5e.wikidot.com/spell:dragons-breath",
+    "nome_pt": "Sopro do Dragão"
   },
   {
     "slug": "dust-devil",
@@ -1977,7 +2141,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dust-devil"
+    "link": "https://dnd5e.wikidot.com/spell:dust-devil",
+    "nome_pt": "Redemoinho de Poeira"
   },
   {
     "slug": "earthbind",
@@ -1989,7 +2154,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:earthbind"
+    "link": "https://dnd5e.wikidot.com/spell:earthbind",
+    "nome_pt": "Atar à Terra"
   },
   {
     "slug": "enhance-ability",
@@ -2001,7 +2167,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:enhance-ability"
+    "link": "https://dnd5e.wikidot.com/spell:enhance-ability",
+    "nome_pt": "Aprimorar Atributo"
   },
   {
     "slug": "enlarge-reduce",
@@ -2013,7 +2180,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:enlarge-reduce"
+    "link": "https://dnd5e.wikidot.com/spell:enlarge-reduce",
+    "nome_pt": "Aumentar ou Reduzir"
   },
   {
     "slug": "enthrall",
@@ -2025,7 +2193,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:enthrall"
+    "link": "https://dnd5e.wikidot.com/spell:enthrall",
+    "nome_pt": "Fascinar"
   },
   {
     "slug": "find-steed",
@@ -2037,7 +2206,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:find-steed"
+    "link": "https://dnd5e.wikidot.com/spell:find-steed",
+    "nome_pt": "Encontrar Montaria"
   },
   {
     "slug": "find-traps",
@@ -2049,7 +2219,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:find-traps"
+    "link": "https://dnd5e.wikidot.com/spell:find-traps",
+    "nome_pt": "Encontrar Armadilhas"
   },
   {
     "slug": "find-vehicle",
@@ -2061,7 +2232,8 @@
     "duracao": "8 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:find-vehicle"
+    "link": "https://dnd5e.wikidot.com/spell:find-vehicle",
+    "nome_pt": "Encontrar Veículo (UA)"
   },
   {
     "slug": "flame-blade",
@@ -2073,7 +2245,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:flame-blade"
+    "link": "https://dnd5e.wikidot.com/spell:flame-blade",
+    "nome_pt": "Lâmina Flamejante"
   },
   {
     "slug": "flaming-sphere",
@@ -2085,7 +2258,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:flaming-sphere"
+    "link": "https://dnd5e.wikidot.com/spell:flaming-sphere",
+    "nome_pt": "Esfera Flamejante"
   },
   {
     "slug": "flock-of-familiars",
@@ -2097,7 +2271,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:flock-of-familiars"
+    "link": "https://dnd5e.wikidot.com/spell:flock-of-familiars",
+    "nome_pt": "Bando de Familiares"
   },
   {
     "slug": "fortunes-favor",
@@ -2109,7 +2284,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:fortunes-favor"
+    "link": "https://dnd5e.wikidot.com/spell:fortunes-favor",
+    "nome_pt": "Favor da Fortuna"
   },
   {
     "slug": "gentle-repose",
@@ -2121,7 +2297,8 @@
     "duracao": "10 dias",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:gentle-repose"
+    "link": "https://dnd5e.wikidot.com/spell:gentle-repose",
+    "nome_pt": "Repouso Tranquilo"
   },
   {
     "slug": "gift-of-gab",
@@ -2133,7 +2310,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:gift-of-gab"
+    "link": "https://dnd5e.wikidot.com/spell:gift-of-gab",
+    "nome_pt": "Dom da Lábia"
   },
   {
     "slug": "gust-of-wind",
@@ -2145,7 +2323,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:gust-of-wind"
+    "link": "https://dnd5e.wikidot.com/spell:gust-of-wind",
+    "nome_pt": "Rajada de Vento"
   },
   {
     "slug": "healing-spirit",
@@ -2157,7 +2336,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:healing-spirit"
+    "link": "https://dnd5e.wikidot.com/spell:healing-spirit",
+    "nome_pt": "Espírito Curativo"
   },
   {
     "slug": "heat-metal",
@@ -2169,7 +2349,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:heat-metal"
+    "link": "https://dnd5e.wikidot.com/spell:heat-metal",
+    "nome_pt": "Aquecer Metal"
   },
   {
     "slug": "hold-person",
@@ -2181,7 +2362,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:hold-person"
+    "link": "https://dnd5e.wikidot.com/spell:hold-person",
+    "nome_pt": "Imobilizar Pessoa"
   },
   {
     "slug": "icingdeath-s-frost",
@@ -2193,7 +2375,8 @@
     "duracao": "Instantânea",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:icingdeath-s-frost"
+    "link": "https://dnd5e.wikidot.com/spell:icingdeath-s-frost",
+    "nome_pt": "Gelo de Icingdeath (UA)"
   },
   {
     "slug": "immovable-object",
@@ -2205,7 +2388,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:immovable-object"
+    "link": "https://dnd5e.wikidot.com/spell:immovable-object",
+    "nome_pt": "Objeto Imóvel"
   },
   {
     "slug": "invisibility",
@@ -2217,7 +2401,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:invisibility"
+    "link": "https://dnd5e.wikidot.com/spell:invisibility",
+    "nome_pt": "Invisibilidade"
   },
   {
     "slug": "jims-glowing-coin",
@@ -2229,7 +2414,8 @@
     "duracao": "1 minuto",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:jims-glowing-coin"
+    "link": "https://dnd5e.wikidot.com/spell:jims-glowing-coin",
+    "nome_pt": "Moeda Brilhante de Jim"
   },
   {
     "slug": "kinetic-jaunt",
@@ -2241,7 +2427,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:kinetic-jaunt"
+    "link": "https://dnd5e.wikidot.com/spell:kinetic-jaunt",
+    "nome_pt": "Arranque Cinético"
   },
   {
     "slug": "knock",
@@ -2253,7 +2440,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:knock"
+    "link": "https://dnd5e.wikidot.com/spell:knock",
+    "nome_pt": "Abrir"
   },
   {
     "slug": "lesser-restoration",
@@ -2265,7 +2453,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:lesser-restoration"
+    "link": "https://dnd5e.wikidot.com/spell:lesser-restoration",
+    "nome_pt": "Restauração Menor"
   },
   {
     "slug": "levitate",
@@ -2277,7 +2466,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:levitate"
+    "link": "https://dnd5e.wikidot.com/spell:levitate",
+    "nome_pt": "Levitação"
   },
   {
     "slug": "locate-animals-or-plants",
@@ -2289,7 +2479,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:locate-animals-or-plants"
+    "link": "https://dnd5e.wikidot.com/spell:locate-animals-or-plants",
+    "nome_pt": "Localizar Animais ou Plantas"
   },
   {
     "slug": "locate-object",
@@ -2301,7 +2492,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:locate-object"
+    "link": "https://dnd5e.wikidot.com/spell:locate-object",
+    "nome_pt": "Localizar Objeto"
   },
   {
     "slug": "magic-mouth",
@@ -2313,7 +2505,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:magic-mouth"
+    "link": "https://dnd5e.wikidot.com/spell:magic-mouth",
+    "nome_pt": "Boca Mágica"
   },
   {
     "slug": "magic-weapon",
@@ -2325,7 +2518,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:magic-weapon"
+    "link": "https://dnd5e.wikidot.com/spell:magic-weapon",
+    "nome_pt": "Arma Mágica"
   },
   {
     "slug": "maximillians-earthen-grasp",
@@ -2337,7 +2531,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp"
+    "link": "https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp",
+    "nome_pt": "Garra de Terra de Maximillian"
   },
   {
     "slug": "melfs-acid-arrow",
@@ -2349,7 +2544,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:melfs-acid-arrow"
+    "link": "https://dnd5e.wikidot.com/spell:melfs-acid-arrow",
+    "nome_pt": "Flecha Ácida de Melf"
   },
   {
     "slug": "mental-barrier",
@@ -2361,7 +2557,8 @@
     "duracao": "1 rodada",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mental-barrier"
+    "link": "https://dnd5e.wikidot.com/spell:mental-barrier",
+    "nome_pt": "Barreira Mental (UA)"
   },
   {
     "slug": "mind-spike",
@@ -2373,7 +2570,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:mind-spike"
+    "link": "https://dnd5e.wikidot.com/spell:mind-spike",
+    "nome_pt": "Espinho Mental"
   },
   {
     "slug": "mind-thrust",
@@ -2385,7 +2583,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mind-thrust"
+    "link": "https://dnd5e.wikidot.com/spell:mind-thrust",
+    "nome_pt": "Impacto Mental (UA)"
   },
   {
     "slug": "mirror-image",
@@ -2397,7 +2596,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mirror-image"
+    "link": "https://dnd5e.wikidot.com/spell:mirror-image",
+    "nome_pt": "Imagem Espelhada"
   },
   {
     "slug": "misty-step",
@@ -2409,7 +2609,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:misty-step"
+    "link": "https://dnd5e.wikidot.com/spell:misty-step",
+    "nome_pt": "Passo Enevoado"
   },
   {
     "slug": "moonbeam",
@@ -2421,7 +2622,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:moonbeam"
+    "link": "https://dnd5e.wikidot.com/spell:moonbeam",
+    "nome_pt": "Raio Lunar"
   },
   {
     "slug": "nathairs-mischief",
@@ -2433,7 +2635,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:nathairs-mischief"
+    "link": "https://dnd5e.wikidot.com/spell:nathairs-mischief",
+    "nome_pt": "Travessura de Nathair"
   },
   {
     "slug": "nathairs-mischief-ua",
@@ -2445,7 +2648,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:nathairs-mischief-ua"
+    "link": "https://dnd5e.wikidot.com/spell:nathairs-mischief-ua",
+    "nome_pt": "Travessura de Nathair (UA)"
   },
   {
     "slug": "nystuls-magic-aura",
@@ -2457,7 +2661,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:nystuls-magic-aura"
+    "link": "https://dnd5e.wikidot.com/spell:nystuls-magic-aura",
+    "nome_pt": "Aura Mágica de Nystul"
   },
   {
     "slug": "pass-without-trace",
@@ -2469,7 +2674,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:pass-without-trace"
+    "link": "https://dnd5e.wikidot.com/spell:pass-without-trace",
+    "nome_pt": "Passos sem Pegadas"
   },
   {
     "slug": "phantasmal-force",
@@ -2481,7 +2687,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:phantasmal-force"
+    "link": "https://dnd5e.wikidot.com/spell:phantasmal-force",
+    "nome_pt": "Força Fantasmagórica"
   },
   {
     "slug": "prayer-of-healing",
@@ -2493,7 +2700,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:prayer-of-healing"
+    "link": "https://dnd5e.wikidot.com/spell:prayer-of-healing",
+    "nome_pt": "Prece de Cura"
   },
   {
     "slug": "protection-from-poison",
@@ -2505,7 +2713,8 @@
     "duracao": "1 hora",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:protection-from-poison"
+    "link": "https://dnd5e.wikidot.com/spell:protection-from-poison",
+    "nome_pt": "Proteção contra Veneno"
   },
   {
     "slug": "pyrotechnics",
@@ -2517,7 +2726,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:pyrotechnics"
+    "link": "https://dnd5e.wikidot.com/spell:pyrotechnics",
+    "nome_pt": "Pirotecnia"
   },
   {
     "slug": "ray-of-enfeeblement",
@@ -2529,7 +2739,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:ray-of-enfeeblement"
+    "link": "https://dnd5e.wikidot.com/spell:ray-of-enfeeblement",
+    "nome_pt": "Raio do Enfraquecimento"
   },
   {
     "slug": "rimes-binding-ice",
@@ -2541,7 +2752,8 @@
     "duracao": "Instantânea",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:rimes-binding-ice"
+    "link": "https://dnd5e.wikidot.com/spell:rimes-binding-ice",
+    "nome_pt": "Gelo Aprisionador de Rime"
   },
   {
     "slug": "rope-trick",
@@ -2553,7 +2765,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:rope-trick"
+    "link": "https://dnd5e.wikidot.com/spell:rope-trick",
+    "nome_pt": "Truque da Corda"
   },
   {
     "slug": "scorching-ray",
@@ -2565,7 +2778,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:scorching-ray"
+    "link": "https://dnd5e.wikidot.com/spell:scorching-ray",
+    "nome_pt": "Raio Ardente"
   },
   {
     "slug": "see-invisibility",
@@ -2577,7 +2791,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:see-invisibility"
+    "link": "https://dnd5e.wikidot.com/spell:see-invisibility",
+    "nome_pt": "Ver o Invisível"
   },
   {
     "slug": "shadow-blade",
@@ -2589,7 +2804,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:shadow-blade"
+    "link": "https://dnd5e.wikidot.com/spell:shadow-blade",
+    "nome_pt": "Lâmina das Sombras"
   },
   {
     "slug": "shatter",
@@ -2601,7 +2817,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:shatter"
+    "link": "https://dnd5e.wikidot.com/spell:shatter",
+    "nome_pt": "Estilhaçar"
   },
   {
     "slug": "silence",
@@ -2613,7 +2830,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:silence"
+    "link": "https://dnd5e.wikidot.com/spell:silence",
+    "nome_pt": "Silêncio"
   },
   {
     "slug": "skywrite",
@@ -2625,7 +2843,8 @@
     "duracao": "Concentração, até 1 dia",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:skywrite"
+    "link": "https://dnd5e.wikidot.com/spell:skywrite",
+    "nome_pt": "Escrever no Céu"
   },
   {
     "slug": "snillocs-snowball-swarm",
@@ -2637,7 +2856,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm"
+    "link": "https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm",
+    "nome_pt": "Bolas de Neve de Snilloc"
   },
   {
     "slug": "spider-climb",
@@ -2649,7 +2869,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:spider-climb"
+    "link": "https://dnd5e.wikidot.com/spell:spider-climb",
+    "nome_pt": "Andar nas Paredes"
   },
   {
     "slug": "spike-growth",
@@ -2661,7 +2882,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:spike-growth"
+    "link": "https://dnd5e.wikidot.com/spell:spike-growth",
+    "nome_pt": "Crescer Espinhos"
   },
   {
     "slug": "spiritual-weapon",
@@ -2673,7 +2895,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:spiritual-weapon"
+    "link": "https://dnd5e.wikidot.com/spell:spiritual-weapon",
+    "nome_pt": "Arma Espiritual"
   },
   {
     "slug": "spray-of-cards",
@@ -2685,7 +2908,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:spray-of-cards"
+    "link": "https://dnd5e.wikidot.com/spell:spray-of-cards",
+    "nome_pt": "Leque de Cartas"
   },
   {
     "slug": "spray-of-cards-ua",
@@ -2697,7 +2921,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:spray-of-cards-ua"
+    "link": "https://dnd5e.wikidot.com/spell:spray-of-cards-ua",
+    "nome_pt": "Leque de Cartas (UA)"
   },
   {
     "slug": "suggestion",
@@ -2709,7 +2934,8 @@
     "duracao": "Concentração, até 8 horas",
     "componentes": "V, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:suggestion"
+    "link": "https://dnd5e.wikidot.com/spell:suggestion",
+    "nome_pt": "Sugestão"
   },
   {
     "slug": "summon-beast",
@@ -2721,7 +2947,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-beast"
+    "link": "https://dnd5e.wikidot.com/spell:summon-beast",
+    "nome_pt": "Convocar Fera"
   },
   {
     "slug": "tashas-mind-whip",
@@ -2733,7 +2960,8 @@
     "duracao": "1 rodada",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:tashas-mind-whip"
+    "link": "https://dnd5e.wikidot.com/spell:tashas-mind-whip",
+    "nome_pt": "Chicote Mental de Tasha"
   },
   {
     "slug": "thought-shield",
@@ -2745,7 +2973,8 @@
     "duracao": "8 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:thought-shield"
+    "link": "https://dnd5e.wikidot.com/spell:thought-shield",
+    "nome_pt": "Escudo Mental (UA)"
   },
   {
     "slug": "vortex-warp",
@@ -2757,7 +2986,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:vortex-warp"
+    "link": "https://dnd5e.wikidot.com/spell:vortex-warp",
+    "nome_pt": "Distorção em Vórtice"
   },
   {
     "slug": "warding-bond",
@@ -2769,7 +2999,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:warding-bond"
+    "link": "https://dnd5e.wikidot.com/spell:warding-bond",
+    "nome_pt": "Vínculo de Proteção"
   },
   {
     "slug": "warding-wind",
@@ -2781,7 +3012,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:warding-wind"
+    "link": "https://dnd5e.wikidot.com/spell:warding-wind",
+    "nome_pt": "Vento Protetor"
   },
   {
     "slug": "warp-sense",
@@ -2793,7 +3025,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:warp-sense"
+    "link": "https://dnd5e.wikidot.com/spell:warp-sense",
+    "nome_pt": "Sentir Distorção"
   },
   {
     "slug": "web",
@@ -2805,7 +3038,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:web"
+    "link": "https://dnd5e.wikidot.com/spell:web",
+    "nome_pt": "Teia"
   },
   {
     "slug": "wither-and-bloom",
@@ -2817,7 +3051,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:wither-and-bloom"
+    "link": "https://dnd5e.wikidot.com/spell:wither-and-bloom",
+    "nome_pt": "Murchar e Florescer"
   },
   {
     "slug": "wristpocket",
@@ -2829,7 +3064,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wristpocket"
+    "link": "https://dnd5e.wikidot.com/spell:wristpocket",
+    "nome_pt": "Bolso de Pulso"
   },
   {
     "slug": "zone-of-truth",
@@ -2841,7 +3077,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:zone-of-truth"
+    "link": "https://dnd5e.wikidot.com/spell:zone-of-truth",
+    "nome_pt": "Zona da Verdade"
   },
   {
     "slug": "animate-dead",
@@ -2853,7 +3090,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:animate-dead"
+    "link": "https://dnd5e.wikidot.com/spell:animate-dead",
+    "nome_pt": "Animar Mortos"
   },
   {
     "slug": "antagonize",
@@ -2865,7 +3103,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:antagonize"
+    "link": "https://dnd5e.wikidot.com/spell:antagonize",
+    "nome_pt": "Antagonizar"
   },
   {
     "slug": "antagonize-ua",
@@ -2877,7 +3116,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:antagonize-ua"
+    "link": "https://dnd5e.wikidot.com/spell:antagonize-ua",
+    "nome_pt": "Antagonizar (UA)"
   },
   {
     "slug": "ashardalons-stride",
@@ -2889,7 +3129,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V,S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:ashardalons-stride"
+    "link": "https://dnd5e.wikidot.com/spell:ashardalons-stride",
+    "nome_pt": "Passada de Ashardalon"
   },
   {
     "slug": "aura-of-vitality",
@@ -2901,7 +3142,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:aura-of-vitality"
+    "link": "https://dnd5e.wikidot.com/spell:aura-of-vitality",
+    "nome_pt": "Aura de Vitalidade"
   },
   {
     "slug": "beacon-of-hope",
@@ -2913,7 +3155,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:beacon-of-hope"
+    "link": "https://dnd5e.wikidot.com/spell:beacon-of-hope",
+    "nome_pt": "Farol da Esperança"
   },
   {
     "slug": "bestow-curse",
@@ -2925,7 +3168,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:bestow-curse"
+    "link": "https://dnd5e.wikidot.com/spell:bestow-curse",
+    "nome_pt": "Conceder Maldição"
   },
   {
     "slug": "blinding-smite",
@@ -2937,7 +3181,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:blinding-smite"
+    "link": "https://dnd5e.wikidot.com/spell:blinding-smite",
+    "nome_pt": "Golpe Cegante"
   },
   {
     "slug": "blink",
@@ -2949,7 +3194,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:blink"
+    "link": "https://dnd5e.wikidot.com/spell:blink",
+    "nome_pt": "Piscar"
   },
   {
     "slug": "call-lightning",
@@ -2961,7 +3207,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:call-lightning"
+    "link": "https://dnd5e.wikidot.com/spell:call-lightning",
+    "nome_pt": "Convocar Relâmpagos"
   },
   {
     "slug": "catnap",
@@ -2973,7 +3220,8 @@
     "duracao": "10 minutos",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:catnap"
+    "link": "https://dnd5e.wikidot.com/spell:catnap",
+    "nome_pt": "Soneca"
   },
   {
     "slug": "clairvoyance",
@@ -2985,7 +3233,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:clairvoyance"
+    "link": "https://dnd5e.wikidot.com/spell:clairvoyance",
+    "nome_pt": "Clarividência"
   },
   {
     "slug": "conjure-animals",
@@ -2997,7 +3246,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-animals"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-animals",
+    "nome_pt": "Conjurar Animais"
   },
   {
     "slug": "conjure-barrage",
@@ -3009,7 +3259,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-barrage"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-barrage",
+    "nome_pt": "Conjurar Barragem"
   },
   {
     "slug": "conjure-lesser-demon",
@@ -3021,7 +3272,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-lesser-demon"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-lesser-demon",
+    "nome_pt": "Conjurar Demônio Menor (UA)"
   },
   {
     "slug": "counterspell",
@@ -3033,7 +3285,8 @@
     "duracao": "Instantânea",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:counterspell"
+    "link": "https://dnd5e.wikidot.com/spell:counterspell",
+    "nome_pt": "Contramágica"
   },
   {
     "slug": "create-food-and-water",
@@ -3045,7 +3298,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:create-food-and-water"
+    "link": "https://dnd5e.wikidot.com/spell:create-food-and-water",
+    "nome_pt": "Criar Comida e Água"
   },
   {
     "slug": "crusaders-mantle",
@@ -3057,7 +3311,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:crusaders-mantle"
+    "link": "https://dnd5e.wikidot.com/spell:crusaders-mantle",
+    "nome_pt": "Manto do Cruzado"
   },
   {
     "slug": "daylight",
@@ -3069,7 +3324,8 @@
     "duracao": "1 hora",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:daylight"
+    "link": "https://dnd5e.wikidot.com/spell:daylight",
+    "nome_pt": "Luz do Dia"
   },
   {
     "slug": "dispel-magic",
@@ -3081,7 +3337,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:dispel-magic"
+    "link": "https://dnd5e.wikidot.com/spell:dispel-magic",
+    "nome_pt": "Dissipar Magia"
   },
   {
     "slug": "elemental-weapon",
@@ -3093,7 +3350,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:elemental-weapon"
+    "link": "https://dnd5e.wikidot.com/spell:elemental-weapon",
+    "nome_pt": "Arma Elemental"
   },
   {
     "slug": "enemies-abound",
@@ -3105,7 +3363,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:enemies-abound"
+    "link": "https://dnd5e.wikidot.com/spell:enemies-abound",
+    "nome_pt": "Inimigos por Toda Parte"
   },
   {
     "slug": "erupting-earth",
@@ -3117,7 +3376,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:erupting-earth"
+    "link": "https://dnd5e.wikidot.com/spell:erupting-earth",
+    "nome_pt": "Terra Irrompente"
   },
   {
     "slug": "fast-friends",
@@ -3129,7 +3389,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:fast-friends"
+    "link": "https://dnd5e.wikidot.com/spell:fast-friends",
+    "nome_pt": "Amigos Instantâneos"
   },
   {
     "slug": "fear",
@@ -3141,7 +3402,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:fear"
+    "link": "https://dnd5e.wikidot.com/spell:fear",
+    "nome_pt": "Medo"
   },
   {
     "slug": "feign-death",
@@ -3153,7 +3415,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:feign-death"
+    "link": "https://dnd5e.wikidot.com/spell:feign-death",
+    "nome_pt": "Fingir Morte"
   },
   {
     "slug": "fireball",
@@ -3165,7 +3428,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:fireball"
+    "link": "https://dnd5e.wikidot.com/spell:fireball",
+    "nome_pt": "Bola de Fogo"
   },
   {
     "slug": "flame-arrows",
@@ -3177,7 +3441,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:flame-arrows"
+    "link": "https://dnd5e.wikidot.com/spell:flame-arrows",
+    "nome_pt": "Flechas Flamejantes"
   },
   {
     "slug": "flame-stride",
@@ -3189,7 +3454,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:flame-stride"
+    "link": "https://dnd5e.wikidot.com/spell:flame-stride",
+    "nome_pt": "Passada Flamejante (UA)"
   },
   {
     "slug": "fly",
@@ -3201,7 +3467,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:fly"
+    "link": "https://dnd5e.wikidot.com/spell:fly",
+    "nome_pt": "Voo"
   },
   {
     "slug": "galders-tower",
@@ -3213,7 +3480,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:galders-tower"
+    "link": "https://dnd5e.wikidot.com/spell:galders-tower",
+    "nome_pt": "Torre de Galder"
   },
   {
     "slug": "gaseous-form",
@@ -3225,7 +3493,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:gaseous-form"
+    "link": "https://dnd5e.wikidot.com/spell:gaseous-form",
+    "nome_pt": "Forma Gasosa"
   },
   {
     "slug": "glyph-of-warding",
@@ -3237,7 +3506,8 @@
     "duracao": "Até ser dissipada ou disparada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:glyph-of-warding"
+    "link": "https://dnd5e.wikidot.com/spell:glyph-of-warding",
+    "nome_pt": "Glifo de Proteção"
   },
   {
     "slug": "haste",
@@ -3249,7 +3519,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:haste"
+    "link": "https://dnd5e.wikidot.com/spell:haste",
+    "nome_pt": "Acelerar"
   },
   {
     "slug": "haywire",
@@ -3261,7 +3532,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:haywire"
+    "link": "https://dnd5e.wikidot.com/spell:haywire",
+    "nome_pt": "Pane (UA)"
   },
   {
     "slug": "house-of-cards-ua",
@@ -3273,7 +3545,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:house-of-cards-ua"
+    "link": "https://dnd5e.wikidot.com/spell:house-of-cards-ua",
+    "nome_pt": "Castelo de Cartas (UA)"
   },
   {
     "slug": "hunger-of-hadar",
@@ -3285,7 +3558,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:hunger-of-hadar"
+    "link": "https://dnd5e.wikidot.com/spell:hunger-of-hadar",
+    "nome_pt": "Fome de Hadar"
   },
   {
     "slug": "hypnotic-pattern",
@@ -3297,7 +3571,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:hypnotic-pattern"
+    "link": "https://dnd5e.wikidot.com/spell:hypnotic-pattern",
+    "nome_pt": "Padrão Hipnótico"
   },
   {
     "slug": "incite-greed",
@@ -3309,7 +3584,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:incite-greed"
+    "link": "https://dnd5e.wikidot.com/spell:incite-greed",
+    "nome_pt": "Incitar Ganância"
   },
   {
     "slug": "intellect-fortress",
@@ -3321,7 +3597,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:intellect-fortress"
+    "link": "https://dnd5e.wikidot.com/spell:intellect-fortress",
+    "nome_pt": "Fortaleza do Intelecto"
   },
   {
     "slug": "invisibility-to-cameras",
@@ -3333,7 +3610,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:invisibility-to-cameras"
+    "link": "https://dnd5e.wikidot.com/spell:invisibility-to-cameras",
+    "nome_pt": "Invisibilidade a Câmeras (UA)"
   },
   {
     "slug": "leomunds-tiny-hut",
@@ -3345,7 +3623,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:leomunds-tiny-hut"
+    "link": "https://dnd5e.wikidot.com/spell:leomunds-tiny-hut",
+    "nome_pt": "Cabana Minúscula de Leomund"
   },
   {
     "slug": "life-transference",
@@ -3357,7 +3636,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:life-transference"
+    "link": "https://dnd5e.wikidot.com/spell:life-transference",
+    "nome_pt": "Transferência de Vida"
   },
   {
     "slug": "lightning-arrow",
@@ -3369,7 +3649,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:lightning-arrow"
+    "link": "https://dnd5e.wikidot.com/spell:lightning-arrow",
+    "nome_pt": "Flecha Relâmpago"
   },
   {
     "slug": "lightning-bolt",
@@ -3381,7 +3662,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:lightning-bolt"
+    "link": "https://dnd5e.wikidot.com/spell:lightning-bolt",
+    "nome_pt": "Relâmpago"
   },
   {
     "slug": "magic-circle",
@@ -3393,7 +3675,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:magic-circle"
+    "link": "https://dnd5e.wikidot.com/spell:magic-circle",
+    "nome_pt": "Círculo Mágico"
   },
   {
     "slug": "major-image",
@@ -3405,7 +3688,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:major-image"
+    "link": "https://dnd5e.wikidot.com/spell:major-image",
+    "nome_pt": "Imagem Maior"
   },
   {
     "slug": "mass-healing-word",
@@ -3417,7 +3701,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mass-healing-word"
+    "link": "https://dnd5e.wikidot.com/spell:mass-healing-word",
+    "nome_pt": "Palavra Curativa em Massa"
   },
   {
     "slug": "meld-into-stone",
@@ -3429,7 +3714,8 @@
     "duracao": "8 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:meld-into-stone"
+    "link": "https://dnd5e.wikidot.com/spell:meld-into-stone",
+    "nome_pt": "Fundir-se à Pedra"
   },
   {
     "slug": "melfs-minute-meteors",
@@ -3441,7 +3727,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:melfs-minute-meteors"
+    "link": "https://dnd5e.wikidot.com/spell:melfs-minute-meteors",
+    "nome_pt": "Meteoros Diminutos de Melf"
   },
   {
     "slug": "motivational-speech",
@@ -3453,7 +3740,8 @@
     "duracao": "1 hora",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:motivational-speech"
+    "link": "https://dnd5e.wikidot.com/spell:motivational-speech",
+    "nome_pt": "Discurso Motivacional"
   },
   {
     "slug": "nondetection",
@@ -3465,7 +3753,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:nondetection"
+    "link": "https://dnd5e.wikidot.com/spell:nondetection",
+    "nome_pt": "Indetectável"
   },
   {
     "slug": "phantom-steed",
@@ -3477,7 +3766,8 @@
     "duracao": "1 hora",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:phantom-steed"
+    "link": "https://dnd5e.wikidot.com/spell:phantom-steed",
+    "nome_pt": "Montaria Fantasma"
   },
   {
     "slug": "plant-growth",
@@ -3489,7 +3779,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:plant-growth"
+    "link": "https://dnd5e.wikidot.com/spell:plant-growth",
+    "nome_pt": "Crescimento Vegetal"
   },
   {
     "slug": "protection-from-ballistics",
@@ -3501,7 +3792,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:protection-from-ballistics"
+    "link": "https://dnd5e.wikidot.com/spell:protection-from-ballistics",
+    "nome_pt": "Proteção contra Projéteis (UA)"
   },
   {
     "slug": "protection-from-energy",
@@ -3513,7 +3805,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:protection-from-energy"
+    "link": "https://dnd5e.wikidot.com/spell:protection-from-energy",
+    "nome_pt": "Proteção contra Energia"
   },
   {
     "slug": "psionic-blast",
@@ -3525,7 +3818,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:psionic-blast"
+    "link": "https://dnd5e.wikidot.com/spell:psionic-blast",
+    "nome_pt": "Rajada Psiônica (UA)"
   },
   {
     "slug": "pulse-wave",
@@ -3537,7 +3831,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:pulse-wave"
+    "link": "https://dnd5e.wikidot.com/spell:pulse-wave",
+    "nome_pt": "Onda de Pulso"
   },
   {
     "slug": "remove-curse",
@@ -3549,7 +3844,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:remove-curse"
+    "link": "https://dnd5e.wikidot.com/spell:remove-curse",
+    "nome_pt": "Remover Maldição"
   },
   {
     "slug": "revivify",
@@ -3561,7 +3857,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:revivify"
+    "link": "https://dnd5e.wikidot.com/spell:revivify",
+    "nome_pt": "Reviver"
   },
   {
     "slug": "sending",
@@ -3573,7 +3870,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sending"
+    "link": "https://dnd5e.wikidot.com/spell:sending",
+    "nome_pt": "Mensageiro Divino"
   },
   {
     "slug": "sleet-storm",
@@ -3585,7 +3883,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:sleet-storm"
+    "link": "https://dnd5e.wikidot.com/spell:sleet-storm",
+    "nome_pt": "Tempestade de Granizo"
   },
   {
     "slug": "slow",
@@ -3597,7 +3896,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:slow"
+    "link": "https://dnd5e.wikidot.com/spell:slow",
+    "nome_pt": "Lentidão"
   },
   {
     "slug": "speak-with-dead",
@@ -3609,7 +3909,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:speak-with-dead"
+    "link": "https://dnd5e.wikidot.com/spell:speak-with-dead",
+    "nome_pt": "Falar com os Mortos"
   },
   {
     "slug": "speak-with-plants",
@@ -3621,7 +3922,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:speak-with-plants"
+    "link": "https://dnd5e.wikidot.com/spell:speak-with-plants",
+    "nome_pt": "Falar com Plantas"
   },
   {
     "slug": "spirit-guardians",
@@ -3633,7 +3935,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:spirit-guardians"
+    "link": "https://dnd5e.wikidot.com/spell:spirit-guardians",
+    "nome_pt": "Guardiões Espirituais"
   },
   {
     "slug": "spirit-shroud",
@@ -3645,7 +3948,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:spirit-shroud"
+    "link": "https://dnd5e.wikidot.com/spell:spirit-shroud",
+    "nome_pt": "Mortalha Espiritual"
   },
   {
     "slug": "stinking-cloud",
@@ -3657,7 +3961,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:stinking-cloud"
+    "link": "https://dnd5e.wikidot.com/spell:stinking-cloud",
+    "nome_pt": "Nuvem Fétida"
   },
   {
     "slug": "summon-fey",
@@ -3669,7 +3974,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-fey"
+    "link": "https://dnd5e.wikidot.com/spell:summon-fey",
+    "nome_pt": "Convocar Feérico"
   },
   {
     "slug": "summon-lesser-demons",
@@ -3681,7 +3987,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-lesser-demons"
+    "link": "https://dnd5e.wikidot.com/spell:summon-lesser-demons",
+    "nome_pt": "Convocar Demônios Menores"
   },
   {
     "slug": "summon-shadowspawn",
@@ -3693,7 +4000,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-shadowspawn"
+    "link": "https://dnd5e.wikidot.com/spell:summon-shadowspawn",
+    "nome_pt": "Convocar Cria das Sombras"
   },
   {
     "slug": "summon-undead",
@@ -3705,7 +4013,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-undead"
+    "link": "https://dnd5e.wikidot.com/spell:summon-undead",
+    "nome_pt": "Convocar Morto-Vivo"
   },
   {
     "slug": "summon-warrior-spirit",
@@ -3717,7 +4026,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-warrior-spirit"
+    "link": "https://dnd5e.wikidot.com/spell:summon-warrior-spirit",
+    "nome_pt": "Convocar Espírito Guerreiro (UA)"
   },
   {
     "slug": "thunder-step",
@@ -3729,7 +4039,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:thunder-step"
+    "link": "https://dnd5e.wikidot.com/spell:thunder-step",
+    "nome_pt": "Passo Trovejante"
   },
   {
     "slug": "tidal-wave",
@@ -3741,7 +4052,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:tidal-wave"
+    "link": "https://dnd5e.wikidot.com/spell:tidal-wave",
+    "nome_pt": "Onda Gigante"
   },
   {
     "slug": "tiny-servant",
@@ -3753,7 +4065,8 @@
     "duracao": "8 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:tiny-servant"
+    "link": "https://dnd5e.wikidot.com/spell:tiny-servant",
+    "nome_pt": "Servo Minúsculo"
   },
   {
     "slug": "tongues",
@@ -3765,7 +4078,8 @@
     "duracao": "1 hora",
     "componentes": "V, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:tongues"
+    "link": "https://dnd5e.wikidot.com/spell:tongues",
+    "nome_pt": "Idiomas"
   },
   {
     "slug": "vampiric-touch",
@@ -3777,7 +4091,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:vampiric-touch"
+    "link": "https://dnd5e.wikidot.com/spell:vampiric-touch",
+    "nome_pt": "Toque Vampírico"
   },
   {
     "slug": "wall-of-sand",
@@ -3789,7 +4104,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wall-of-sand"
+    "link": "https://dnd5e.wikidot.com/spell:wall-of-sand",
+    "nome_pt": "Muralha de Areia"
   },
   {
     "slug": "wall-of-water",
@@ -3801,7 +4117,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wall-of-water"
+    "link": "https://dnd5e.wikidot.com/spell:wall-of-water",
+    "nome_pt": "Muralha de Água"
   },
   {
     "slug": "water-breathing",
@@ -3813,7 +4130,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:water-breathing"
+    "link": "https://dnd5e.wikidot.com/spell:water-breathing",
+    "nome_pt": "Respirar na Água"
   },
   {
     "slug": "water-walk",
@@ -3825,7 +4143,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:water-walk"
+    "link": "https://dnd5e.wikidot.com/spell:water-walk",
+    "nome_pt": "Caminhar nas Águas"
   },
   {
     "slug": "wind-wall",
@@ -3837,7 +4156,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wind-wall"
+    "link": "https://dnd5e.wikidot.com/spell:wind-wall",
+    "nome_pt": "Muralha de Vento"
   },
   {
     "slug": "arcane-eye",
@@ -3849,7 +4169,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:arcane-eye"
+    "link": "https://dnd5e.wikidot.com/spell:arcane-eye",
+    "nome_pt": "Olho Arcano"
   },
   {
     "slug": "aura-of-life",
@@ -3861,7 +4182,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:aura-of-life"
+    "link": "https://dnd5e.wikidot.com/spell:aura-of-life",
+    "nome_pt": "Aura da Vida"
   },
   {
     "slug": "aura-of-purity",
@@ -3873,7 +4195,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:aura-of-purity"
+    "link": "https://dnd5e.wikidot.com/spell:aura-of-purity",
+    "nome_pt": "Aura de Pureza"
   },
   {
     "slug": "banishment",
@@ -3885,7 +4208,8 @@
     "duracao": "Concentração, até 1 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:banishment"
+    "link": "https://dnd5e.wikidot.com/spell:banishment",
+    "nome_pt": "Banimento"
   },
   {
     "slug": "blight",
@@ -3897,7 +4221,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:blight"
+    "link": "https://dnd5e.wikidot.com/spell:blight",
+    "nome_pt": "Definhar"
   },
   {
     "slug": "charm-monster",
@@ -3909,7 +4234,8 @@
     "duracao": "1 hora",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:charm-monster"
+    "link": "https://dnd5e.wikidot.com/spell:charm-monster",
+    "nome_pt": "Enfeitiçar Monstro"
   },
   {
     "slug": "compulsion",
@@ -3921,7 +4247,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:compulsion"
+    "link": "https://dnd5e.wikidot.com/spell:compulsion",
+    "nome_pt": "Compulsão"
   },
   {
     "slug": "confusion",
@@ -3933,7 +4260,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:confusion"
+    "link": "https://dnd5e.wikidot.com/spell:confusion",
+    "nome_pt": "Confusão"
   },
   {
     "slug": "conjure-barlgura",
@@ -3945,7 +4273,8 @@
     "duracao": "Até 10 minutos",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-barlgura"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-barlgura",
+    "nome_pt": "Conjurar Barlgura (UA)"
   },
   {
     "slug": "conjure-knowbot",
@@ -3957,7 +4286,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-knowbot"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-knowbot",
+    "nome_pt": "Conjurar Knowbot (UA)"
   },
   {
     "slug": "conjure-minor-elementals",
@@ -3969,7 +4299,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-minor-elementals"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-minor-elementals",
+    "nome_pt": "Conjurar Elementais Menores"
   },
   {
     "slug": "conjure-shadow-demon",
@@ -3981,7 +4312,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-shadow-demon"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-shadow-demon",
+    "nome_pt": "Conjurar Demônio das Sombras (UA)"
   },
   {
     "slug": "conjure-woodland-beings",
@@ -3993,7 +4325,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-woodland-beings"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-woodland-beings",
+    "nome_pt": "Conjurar Seres da Floresta"
   },
   {
     "slug": "control-water",
@@ -4005,7 +4338,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:control-water"
+    "link": "https://dnd5e.wikidot.com/spell:control-water",
+    "nome_pt": "Controlar Água"
   },
   {
     "slug": "death-ward",
@@ -4017,7 +4351,8 @@
     "duracao": "8 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:death-ward"
+    "link": "https://dnd5e.wikidot.com/spell:death-ward",
+    "nome_pt": "Proteção contra a Morte"
   },
   {
     "slug": "dimension-door",
@@ -4029,7 +4364,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:dimension-door"
+    "link": "https://dnd5e.wikidot.com/spell:dimension-door",
+    "nome_pt": "Porta Dimensional"
   },
   {
     "slug": "divination",
@@ -4041,7 +4377,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:divination"
+    "link": "https://dnd5e.wikidot.com/spell:divination",
+    "nome_pt": "Adivinhação"
   },
   {
     "slug": "dominate-beast",
@@ -4053,7 +4390,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dominate-beast"
+    "link": "https://dnd5e.wikidot.com/spell:dominate-beast",
+    "nome_pt": "Dominar Fera"
   },
   {
     "slug": "ego-whip",
@@ -4065,7 +4403,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:ego-whip"
+    "link": "https://dnd5e.wikidot.com/spell:ego-whip",
+    "nome_pt": "Chicote do Ego (UA)"
   },
   {
     "slug": "elemental-bane",
@@ -4077,7 +4416,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:elemental-bane"
+    "link": "https://dnd5e.wikidot.com/spell:elemental-bane",
+    "nome_pt": "Perdição Elemental"
   },
   {
     "slug": "evards-black-tentacles",
@@ -4089,7 +4429,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:evards-black-tentacles"
+    "link": "https://dnd5e.wikidot.com/spell:evards-black-tentacles",
+    "nome_pt": "Tentáculos Negros de Evard"
   },
   {
     "slug": "fabricate",
@@ -4101,7 +4442,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:fabricate"
+    "link": "https://dnd5e.wikidot.com/spell:fabricate",
+    "nome_pt": "Fabricar"
   },
   {
     "slug": "find-greater-steed",
@@ -4113,7 +4455,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:find-greater-steed"
+    "link": "https://dnd5e.wikidot.com/spell:find-greater-steed",
+    "nome_pt": "Encontrar Montaria Superior"
   },
   {
     "slug": "fire-shield",
@@ -4125,7 +4468,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:fire-shield"
+    "link": "https://dnd5e.wikidot.com/spell:fire-shield",
+    "nome_pt": "Escudo de Fogo"
   },
   {
     "slug": "freedom-of-movement",
@@ -4137,7 +4481,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:freedom-of-movement"
+    "link": "https://dnd5e.wikidot.com/spell:freedom-of-movement",
+    "nome_pt": "Liberdade de Movimento"
   },
   {
     "slug": "galders-speedy-courier",
@@ -4149,7 +4494,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:galders-speedy-courier"
+    "link": "https://dnd5e.wikidot.com/spell:galders-speedy-courier",
+    "nome_pt": "Mensageiro Veloz de Galder"
   },
   {
     "slug": "gate-seal",
@@ -4161,7 +4507,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:gate-seal"
+    "link": "https://dnd5e.wikidot.com/spell:gate-seal",
+    "nome_pt": "Selo de Portal"
   },
   {
     "slug": "giant-insect",
@@ -4173,7 +4520,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:giant-insect"
+    "link": "https://dnd5e.wikidot.com/spell:giant-insect",
+    "nome_pt": "Inseto Gigante"
   },
   {
     "slug": "grasping-vine",
@@ -4185,7 +4533,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:grasping-vine"
+    "link": "https://dnd5e.wikidot.com/spell:grasping-vine",
+    "nome_pt": "Vinha Agarradora"
   },
   {
     "slug": "gravity-sinkhole",
@@ -4197,7 +4546,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:gravity-sinkhole"
+    "link": "https://dnd5e.wikidot.com/spell:gravity-sinkhole",
+    "nome_pt": "Sumidouro Gravitacional"
   },
   {
     "slug": "greater-invisibility",
@@ -4209,7 +4559,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:greater-invisibility"
+    "link": "https://dnd5e.wikidot.com/spell:greater-invisibility",
+    "nome_pt": "Invisibilidade Superior"
   },
   {
     "slug": "guardian-of-faith",
@@ -4221,7 +4572,8 @@
     "duracao": "8 horas",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:guardian-of-faith"
+    "link": "https://dnd5e.wikidot.com/spell:guardian-of-faith",
+    "nome_pt": "Guardião da Fé"
   },
   {
     "slug": "guardian-of-nature",
@@ -4233,7 +4585,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:guardian-of-nature"
+    "link": "https://dnd5e.wikidot.com/spell:guardian-of-nature",
+    "nome_pt": "Guardião da Natureza"
   },
   {
     "slug": "hallucinatory-terrain",
@@ -4245,7 +4598,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:hallucinatory-terrain"
+    "link": "https://dnd5e.wikidot.com/spell:hallucinatory-terrain",
+    "nome_pt": "Terreno Alucinante"
   },
   {
     "slug": "ice-storm",
@@ -4257,7 +4611,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:ice-storm"
+    "link": "https://dnd5e.wikidot.com/spell:ice-storm",
+    "nome_pt": "Tempestade de Gelo"
   },
   {
     "slug": "leomunds-secret-chest",
@@ -4269,7 +4624,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:leomunds-secret-chest"
+    "link": "https://dnd5e.wikidot.com/spell:leomunds-secret-chest",
+    "nome_pt": "Baú Secreto de Leomund"
   },
   {
     "slug": "locate-creature",
@@ -4281,7 +4637,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:locate-creature"
+    "link": "https://dnd5e.wikidot.com/spell:locate-creature",
+    "nome_pt": "Localizar Criatura"
   },
   {
     "slug": "mordenkainens-faithful-hound",
@@ -4293,7 +4650,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mordenkainens-faithful-hound"
+    "link": "https://dnd5e.wikidot.com/spell:mordenkainens-faithful-hound",
+    "nome_pt": "Cão Fiel de Mordenkainen"
   },
   {
     "slug": "mordenkainens-private-sanctum",
@@ -4305,7 +4663,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mordenkainens-private-sanctum"
+    "link": "https://dnd5e.wikidot.com/spell:mordenkainens-private-sanctum",
+    "nome_pt": "Santuário Particular de Mordenkainen"
   },
   {
     "slug": "otilukes-resilient-sphere",
@@ -4317,7 +4676,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:otilukes-resilient-sphere"
+    "link": "https://dnd5e.wikidot.com/spell:otilukes-resilient-sphere",
+    "nome_pt": "Esfera Resiliente de Otiluke"
   },
   {
     "slug": "phantasmal-killer",
@@ -4329,7 +4689,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:phantasmal-killer"
+    "link": "https://dnd5e.wikidot.com/spell:phantasmal-killer",
+    "nome_pt": "Assassino Fantasmagórico"
   },
   {
     "slug": "polymorph",
@@ -4341,7 +4702,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:polymorph"
+    "link": "https://dnd5e.wikidot.com/spell:polymorph",
+    "nome_pt": "Metamorfose"
   },
   {
     "slug": "raulothims-psychic-lance",
@@ -4353,7 +4715,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:raulothims-psychic-lance"
+    "link": "https://dnd5e.wikidot.com/spell:raulothims-psychic-lance",
+    "nome_pt": "Lança Psíquica de Raulothim"
   },
   {
     "slug": "raulothims-psychic-lance-ua",
@@ -4365,7 +4728,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:raulothims-psychic-lance-ua"
+    "link": "https://dnd5e.wikidot.com/spell:raulothims-psychic-lance-ua",
+    "nome_pt": "Lança Psíquica de Raulothim (UA)"
   },
   {
     "slug": "shadow-of-moil",
@@ -4377,7 +4741,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:shadow-of-moil"
+    "link": "https://dnd5e.wikidot.com/spell:shadow-of-moil",
+    "nome_pt": "Sombra de Moil"
   },
   {
     "slug": "sickening-radiance",
@@ -4389,7 +4754,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:sickening-radiance"
+    "link": "https://dnd5e.wikidot.com/spell:sickening-radiance",
+    "nome_pt": "Radiância Nauseante"
   },
   {
     "slug": "spirit-of-death",
@@ -4401,7 +4767,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:spirit-of-death"
+    "link": "https://dnd5e.wikidot.com/spell:spirit-of-death",
+    "nome_pt": "Espírito da Morte"
   },
   {
     "slug": "spirit-of-death-ua",
@@ -4413,7 +4780,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:spirit-of-death-ua"
+    "link": "https://dnd5e.wikidot.com/spell:spirit-of-death-ua",
+    "nome_pt": "Espírito da Morte (UA)"
   },
   {
     "slug": "staggering-smite",
@@ -4425,7 +4793,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:staggering-smite"
+    "link": "https://dnd5e.wikidot.com/spell:staggering-smite",
+    "nome_pt": "Golpe Atordoante"
   },
   {
     "slug": "stone-shape",
@@ -4437,7 +4806,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:stone-shape"
+    "link": "https://dnd5e.wikidot.com/spell:stone-shape",
+    "nome_pt": "Moldar Pedra"
   },
   {
     "slug": "stoneskin",
@@ -4449,7 +4819,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:stoneskin"
+    "link": "https://dnd5e.wikidot.com/spell:stoneskin",
+    "nome_pt": "Pele de Pedra"
   },
   {
     "slug": "storm-sphere",
@@ -4461,7 +4832,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:storm-sphere"
+    "link": "https://dnd5e.wikidot.com/spell:storm-sphere",
+    "nome_pt": "Esfera de Tempestade"
   },
   {
     "slug": "summon-aberration",
@@ -4473,7 +4845,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-aberration"
+    "link": "https://dnd5e.wikidot.com/spell:summon-aberration",
+    "nome_pt": "Convocar Aberração"
   },
   {
     "slug": "summon-construct",
@@ -4485,7 +4858,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-construct"
+    "link": "https://dnd5e.wikidot.com/spell:summon-construct",
+    "nome_pt": "Convocar Constructo"
   },
   {
     "slug": "summon-elemental",
@@ -4497,7 +4871,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-elemental"
+    "link": "https://dnd5e.wikidot.com/spell:summon-elemental",
+    "nome_pt": "Convocar Elemental"
   },
   {
     "slug": "summon-greater-demon",
@@ -4509,7 +4884,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-greater-demon"
+    "link": "https://dnd5e.wikidot.com/spell:summon-greater-demon",
+    "nome_pt": "Convocar Demônio Maior"
   },
   {
     "slug": "synchronicity",
@@ -4521,7 +4897,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:synchronicity"
+    "link": "https://dnd5e.wikidot.com/spell:synchronicity",
+    "nome_pt": "Sincronicidade (UA)"
   },
   {
     "slug": "system-backdoor",
@@ -4533,7 +4910,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:system-backdoor"
+    "link": "https://dnd5e.wikidot.com/spell:system-backdoor",
+    "nome_pt": "Porta dos Fundos do Sistema (UA)"
   },
   {
     "slug": "vitriolic-sphere",
@@ -4545,7 +4923,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:vitriolic-sphere"
+    "link": "https://dnd5e.wikidot.com/spell:vitriolic-sphere",
+    "nome_pt": "Esfera Vitriólica"
   },
   {
     "slug": "wall-of-fire",
@@ -4557,7 +4936,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wall-of-fire"
+    "link": "https://dnd5e.wikidot.com/spell:wall-of-fire",
+    "nome_pt": "Muralha de Fogo"
   },
   {
     "slug": "watery-sphere",
@@ -4569,7 +4949,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:watery-sphere"
+    "link": "https://dnd5e.wikidot.com/spell:watery-sphere",
+    "nome_pt": "Esfera Aquosa"
   },
   {
     "slug": "animate-objects",
@@ -4581,7 +4962,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:animate-objects"
+    "link": "https://dnd5e.wikidot.com/spell:animate-objects",
+    "nome_pt": "Animar Objetos"
   },
   {
     "slug": "antilife-shell",
@@ -4593,7 +4975,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:antilife-shell"
+    "link": "https://dnd5e.wikidot.com/spell:antilife-shell",
+    "nome_pt": "Barreira Antivida"
   },
   {
     "slug": "awaken",
@@ -4605,7 +4988,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:awaken"
+    "link": "https://dnd5e.wikidot.com/spell:awaken",
+    "nome_pt": "Despertar"
   },
   {
     "slug": "banishing-smite",
@@ -4617,7 +5001,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:banishing-smite"
+    "link": "https://dnd5e.wikidot.com/spell:banishing-smite",
+    "nome_pt": "Golpe Banidor"
   },
   {
     "slug": "bigbys-hand",
@@ -4629,7 +5014,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:bigbys-hand"
+    "link": "https://dnd5e.wikidot.com/spell:bigbys-hand",
+    "nome_pt": "Mão de Bigby"
   },
   {
     "slug": "circle-of-power",
@@ -4641,7 +5027,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:circle-of-power"
+    "link": "https://dnd5e.wikidot.com/spell:circle-of-power",
+    "nome_pt": "Círculo de Poder"
   },
   {
     "slug": "cloudkill",
@@ -4653,7 +5040,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:cloudkill"
+    "link": "https://dnd5e.wikidot.com/spell:cloudkill",
+    "nome_pt": "Nuvem Mortal"
   },
   {
     "slug": "commune",
@@ -4665,7 +5053,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:commune"
+    "link": "https://dnd5e.wikidot.com/spell:commune",
+    "nome_pt": "Comunhão"
   },
   {
     "slug": "commune-with-city",
@@ -4677,7 +5066,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:commune-with-city"
+    "link": "https://dnd5e.wikidot.com/spell:commune-with-city",
+    "nome_pt": "Comunhão com a Cidade (UA)"
   },
   {
     "slug": "commune-with-nature",
@@ -4689,7 +5079,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:commune-with-nature"
+    "link": "https://dnd5e.wikidot.com/spell:commune-with-nature",
+    "nome_pt": "Comunhão com a Natureza"
   },
   {
     "slug": "cone-of-cold",
@@ -4701,7 +5092,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:cone-of-cold"
+    "link": "https://dnd5e.wikidot.com/spell:cone-of-cold",
+    "nome_pt": "Cone de Frio"
   },
   {
     "slug": "conjure-elemental",
@@ -4713,7 +5105,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-elemental"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-elemental",
+    "nome_pt": "Conjurar Elemental"
   },
   {
     "slug": "conjure-volley",
@@ -4725,7 +5118,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-volley"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-volley",
+    "nome_pt": "Conjurar Saraivada"
   },
   {
     "slug": "conjure-vrock",
@@ -4737,7 +5131,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-vrock"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-vrock",
+    "nome_pt": "Conjurar Vrock (UA)"
   },
   {
     "slug": "contact-other-plane",
@@ -4749,7 +5144,8 @@
     "duracao": "1 minuto",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:contact-other-plane"
+    "link": "https://dnd5e.wikidot.com/spell:contact-other-plane",
+    "nome_pt": "Contatar Outro Plano"
   },
   {
     "slug": "contagion",
@@ -4761,7 +5157,8 @@
     "duracao": "7 dias",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:contagion"
+    "link": "https://dnd5e.wikidot.com/spell:contagion",
+    "nome_pt": "Contágio"
   },
   {
     "slug": "control-winds",
@@ -4773,7 +5170,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:control-winds"
+    "link": "https://dnd5e.wikidot.com/spell:control-winds",
+    "nome_pt": "Controlar Ventos"
   },
   {
     "slug": "create-spelljamming-helm",
@@ -4785,7 +5183,8 @@
     "duracao": "Instantânea",
     "componentes": "V,S,M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:create-spelljamming-helm"
+    "link": "https://dnd5e.wikidot.com/spell:create-spelljamming-helm",
+    "nome_pt": "Criar Leme Spelljammer"
   },
   {
     "slug": "creation",
@@ -4797,7 +5196,8 @@
     "duracao": "Especial",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:creation"
+    "link": "https://dnd5e.wikidot.com/spell:creation",
+    "nome_pt": "Criação"
   },
   {
     "slug": "danse-macabre",
@@ -4809,7 +5209,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:danse-macabre"
+    "link": "https://dnd5e.wikidot.com/spell:danse-macabre",
+    "nome_pt": "Dança Macabra"
   },
   {
     "slug": "dawn",
@@ -4821,7 +5222,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dawn"
+    "link": "https://dnd5e.wikidot.com/spell:dawn",
+    "nome_pt": "Alvorada"
   },
   {
     "slug": "destructive-wave",
@@ -4833,7 +5235,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:destructive-wave"
+    "link": "https://dnd5e.wikidot.com/spell:destructive-wave",
+    "nome_pt": "Onda Destrutiva"
   },
   {
     "slug": "dispel-evil-and-good",
@@ -4845,7 +5248,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dispel-evil-and-good"
+    "link": "https://dnd5e.wikidot.com/spell:dispel-evil-and-good",
+    "nome_pt": "Dissipar o Bem e o Mal"
   },
   {
     "slug": "dominate-person",
@@ -4857,7 +5261,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dominate-person"
+    "link": "https://dnd5e.wikidot.com/spell:dominate-person",
+    "nome_pt": "Dominar Pessoa"
   },
   {
     "slug": "dream",
@@ -4869,7 +5274,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:dream"
+    "link": "https://dnd5e.wikidot.com/spell:dream",
+    "nome_pt": "Sonho"
   },
   {
     "slug": "enervation",
@@ -4881,7 +5287,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:enervation"
+    "link": "https://dnd5e.wikidot.com/spell:enervation",
+    "nome_pt": "Enervação"
   },
   {
     "slug": "far-step",
@@ -4893,7 +5300,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:far-step"
+    "link": "https://dnd5e.wikidot.com/spell:far-step",
+    "nome_pt": "Passo Distante"
   },
   {
     "slug": "flame-strike",
@@ -4905,7 +5313,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:flame-strike"
+    "link": "https://dnd5e.wikidot.com/spell:flame-strike",
+    "nome_pt": "Golpe Flamejante Divino"
   },
   {
     "slug": "geas",
@@ -4917,7 +5326,8 @@
     "duracao": "30 dias",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:geas"
+    "link": "https://dnd5e.wikidot.com/spell:geas",
+    "nome_pt": "Missão"
   },
   {
     "slug": "greater-restoration",
@@ -4929,7 +5339,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:greater-restoration"
+    "link": "https://dnd5e.wikidot.com/spell:greater-restoration",
+    "nome_pt": "Restauração Maior"
   },
   {
     "slug": "hallow",
@@ -4941,7 +5352,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:hallow"
+    "link": "https://dnd5e.wikidot.com/spell:hallow",
+    "nome_pt": "Consagrar"
   },
   {
     "slug": "hold-monster",
@@ -4953,7 +5365,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:hold-monster"
+    "link": "https://dnd5e.wikidot.com/spell:hold-monster",
+    "nome_pt": "Imobilizar Monstro"
   },
   {
     "slug": "holy-weapon",
@@ -4965,7 +5378,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:holy-weapon"
+    "link": "https://dnd5e.wikidot.com/spell:holy-weapon",
+    "nome_pt": "Arma Sagrada"
   },
   {
     "slug": "immolation",
@@ -4977,7 +5391,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:immolation"
+    "link": "https://dnd5e.wikidot.com/spell:immolation",
+    "nome_pt": "Imolação"
   },
   {
     "slug": "infernal-calling",
@@ -4989,7 +5404,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:infernal-calling"
+    "link": "https://dnd5e.wikidot.com/spell:infernal-calling",
+    "nome_pt": "Chamado Infernal"
   },
   {
     "slug": "insect-plague",
@@ -5001,7 +5417,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:insect-plague"
+    "link": "https://dnd5e.wikidot.com/spell:insect-plague",
+    "nome_pt": "Praga de Insetos"
   },
   {
     "slug": "legend-lore",
@@ -5013,7 +5430,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:legend-lore"
+    "link": "https://dnd5e.wikidot.com/spell:legend-lore",
+    "nome_pt": "Lendas e Histórias"
   },
   {
     "slug": "maelstrom",
@@ -5025,7 +5443,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:maelstrom"
+    "link": "https://dnd5e.wikidot.com/spell:maelstrom",
+    "nome_pt": "Voragem"
   },
   {
     "slug": "mass-cure-wounds",
@@ -5037,7 +5456,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mass-cure-wounds"
+    "link": "https://dnd5e.wikidot.com/spell:mass-cure-wounds",
+    "nome_pt": "Curar Ferimentos em Massa"
   },
   {
     "slug": "mislead",
@@ -5049,7 +5469,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:mislead"
+    "link": "https://dnd5e.wikidot.com/spell:mislead",
+    "nome_pt": "Iludir"
   },
   {
     "slug": "modify-memory",
@@ -5061,7 +5482,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:modify-memory"
+    "link": "https://dnd5e.wikidot.com/spell:modify-memory",
+    "nome_pt": "Modificar Memória"
   },
   {
     "slug": "negative-energy-flood",
@@ -5073,7 +5495,8 @@
     "duracao": "Instantânea",
     "componentes": "V, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:negative-energy-flood"
+    "link": "https://dnd5e.wikidot.com/spell:negative-energy-flood",
+    "nome_pt": "Enxurrada de Energia Negativa"
   },
   {
     "slug": "passwall",
@@ -5085,7 +5508,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:passwall"
+    "link": "https://dnd5e.wikidot.com/spell:passwall",
+    "nome_pt": "Passagem sem Trilhas"
   },
   {
     "slug": "planar-binding",
@@ -5097,7 +5521,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:planar-binding"
+    "link": "https://dnd5e.wikidot.com/spell:planar-binding",
+    "nome_pt": "Vínculo Planar"
   },
   {
     "slug": "raise-dead",
@@ -5109,7 +5534,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:raise-dead"
+    "link": "https://dnd5e.wikidot.com/spell:raise-dead",
+    "nome_pt": "Reviver os Mortos"
   },
   {
     "slug": "rarys-telepathic-bond",
@@ -5121,7 +5547,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:rarys-telepathic-bond"
+    "link": "https://dnd5e.wikidot.com/spell:rarys-telepathic-bond",
+    "nome_pt": "Vínculo Telepático de Rary"
   },
   {
     "slug": "reincarnate",
@@ -5133,7 +5560,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:reincarnate"
+    "link": "https://dnd5e.wikidot.com/spell:reincarnate",
+    "nome_pt": "Reencarnar"
   },
   {
     "slug": "scrying",
@@ -5145,7 +5573,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:scrying"
+    "link": "https://dnd5e.wikidot.com/spell:scrying",
+    "nome_pt": "Vidência"
   },
   {
     "slug": "seeming",
@@ -5157,7 +5586,8 @@
     "duracao": "8 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:seeming"
+    "link": "https://dnd5e.wikidot.com/spell:seeming",
+    "nome_pt": "Aparência"
   },
   {
     "slug": "shutdown",
@@ -5169,7 +5599,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:shutdown"
+    "link": "https://dnd5e.wikidot.com/spell:shutdown",
+    "nome_pt": "Desligamento (UA)"
   },
   {
     "slug": "skill-empowerment",
@@ -5181,7 +5612,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:skill-empowerment"
+    "link": "https://dnd5e.wikidot.com/spell:skill-empowerment",
+    "nome_pt": "Fortalecer Perícia"
   },
   {
     "slug": "steel-wind-strike",
@@ -5193,7 +5625,8 @@
     "duracao": "Instantânea",
     "componentes": "S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:steel-wind-strike"
+    "link": "https://dnd5e.wikidot.com/spell:steel-wind-strike",
+    "nome_pt": "Golpe do Vento de Aço"
   },
   {
     "slug": "summon-celestial",
@@ -5205,7 +5638,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-celestial"
+    "link": "https://dnd5e.wikidot.com/spell:summon-celestial",
+    "nome_pt": "Convocar Celestial"
   },
   {
     "slug": "summon-draconic-spirit",
@@ -5217,7 +5651,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-draconic-spirit"
+    "link": "https://dnd5e.wikidot.com/spell:summon-draconic-spirit",
+    "nome_pt": "Convocar Espírito Dracônico"
   },
   {
     "slug": "summon-draconic-spirit-ua",
@@ -5229,7 +5664,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-draconic-spirit-ua"
+    "link": "https://dnd5e.wikidot.com/spell:summon-draconic-spirit-ua",
+    "nome_pt": "Convocar Espírito Dracônico (UA)"
   },
   {
     "slug": "swift-quiver",
@@ -5241,7 +5677,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:swift-quiver"
+    "link": "https://dnd5e.wikidot.com/spell:swift-quiver",
+    "nome_pt": "Aljava Veloz"
   },
   {
     "slug": "synaptic-static",
@@ -5253,7 +5690,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:synaptic-static"
+    "link": "https://dnd5e.wikidot.com/spell:synaptic-static",
+    "nome_pt": "Estática Sináptica"
   },
   {
     "slug": "telekinesis",
@@ -5265,7 +5703,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:telekinesis"
+    "link": "https://dnd5e.wikidot.com/spell:telekinesis",
+    "nome_pt": "Telecinésia"
   },
   {
     "slug": "teleportation-circle",
@@ -5277,7 +5716,8 @@
     "duracao": "1 rodada",
     "componentes": "V, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:teleportation-circle"
+    "link": "https://dnd5e.wikidot.com/spell:teleportation-circle",
+    "nome_pt": "Círculo de Teleporte"
   },
   {
     "slug": "temporal-shunt",
@@ -5289,7 +5729,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:temporal-shunt"
+    "link": "https://dnd5e.wikidot.com/spell:temporal-shunt",
+    "nome_pt": "Desvio Temporal"
   },
   {
     "slug": "transmute-rock",
@@ -5301,7 +5742,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:transmute-rock"
+    "link": "https://dnd5e.wikidot.com/spell:transmute-rock",
+    "nome_pt": "Transmutar Rocha"
   },
   {
     "slug": "tree-stride",
@@ -5313,7 +5755,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:tree-stride"
+    "link": "https://dnd5e.wikidot.com/spell:tree-stride",
+    "nome_pt": "Passagem Arbórea"
   },
   {
     "slug": "wall-of-force",
@@ -5325,7 +5768,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wall-of-force"
+    "link": "https://dnd5e.wikidot.com/spell:wall-of-force",
+    "nome_pt": "Muralha de Energia"
   },
   {
     "slug": "wall-of-light",
@@ -5337,7 +5781,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wall-of-light"
+    "link": "https://dnd5e.wikidot.com/spell:wall-of-light",
+    "nome_pt": "Muralha de Luz"
   },
   {
     "slug": "wall-of-stone",
@@ -5349,7 +5794,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wall-of-stone"
+    "link": "https://dnd5e.wikidot.com/spell:wall-of-stone",
+    "nome_pt": "Muralha de Pedra"
   },
   {
     "slug": "wrath-of-nature",
@@ -5361,7 +5807,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wrath-of-nature"
+    "link": "https://dnd5e.wikidot.com/spell:wrath-of-nature",
+    "nome_pt": "Ira da Natureza"
   },
   {
     "slug": "arcane-gate",
@@ -5373,7 +5820,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:arcane-gate"
+    "link": "https://dnd5e.wikidot.com/spell:arcane-gate",
+    "nome_pt": "Portão Arcano"
   },
   {
     "slug": "blade-barrier",
@@ -5385,7 +5833,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:blade-barrier"
+    "link": "https://dnd5e.wikidot.com/spell:blade-barrier",
+    "nome_pt": "Barreira de Lâminas"
   },
   {
     "slug": "bones-of-the-earth",
@@ -5397,7 +5846,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:bones-of-the-earth"
+    "link": "https://dnd5e.wikidot.com/spell:bones-of-the-earth",
+    "nome_pt": "Ossos da Terra"
   },
   {
     "slug": "chain-lightning",
@@ -5409,7 +5859,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:chain-lightning"
+    "link": "https://dnd5e.wikidot.com/spell:chain-lightning",
+    "nome_pt": "Relâmpago em Cadeia"
   },
   {
     "slug": "circle-of-death",
@@ -5421,7 +5872,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:circle-of-death"
+    "link": "https://dnd5e.wikidot.com/spell:circle-of-death",
+    "nome_pt": "Círculo da Morte"
   },
   {
     "slug": "conjure-fey",
@@ -5433,7 +5885,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-fey"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-fey",
+    "nome_pt": "Conjurar Feérico"
   },
   {
     "slug": "contingency",
@@ -5445,7 +5898,8 @@
     "duracao": "10 dias",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:contingency"
+    "link": "https://dnd5e.wikidot.com/spell:contingency",
+    "nome_pt": "Contingência"
   },
   {
     "slug": "create-homunculus",
@@ -5457,7 +5911,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:create-homunculus"
+    "link": "https://dnd5e.wikidot.com/spell:create-homunculus",
+    "nome_pt": "Criar Homúnculo"
   },
   {
     "slug": "create-undead",
@@ -5469,7 +5924,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:create-undead"
+    "link": "https://dnd5e.wikidot.com/spell:create-undead",
+    "nome_pt": "Criar Morto-Vivo"
   },
   {
     "slug": "disintegrate",
@@ -5481,7 +5937,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:disintegrate"
+    "link": "https://dnd5e.wikidot.com/spell:disintegrate",
+    "nome_pt": "Desintegrar"
   },
   {
     "slug": "drawmijs-instant-summons",
@@ -5493,7 +5950,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:drawmijs-instant-summons"
+    "link": "https://dnd5e.wikidot.com/spell:drawmijs-instant-summons",
+    "nome_pt": "Convocação Instantânea de Drawmij"
   },
   {
     "slug": "druid-grove",
@@ -5505,7 +5963,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:druid-grove"
+    "link": "https://dnd5e.wikidot.com/spell:druid-grove",
+    "nome_pt": "Bosque Druídico"
   },
   {
     "slug": "eyebite",
@@ -5517,7 +5976,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:eyebite"
+    "link": "https://dnd5e.wikidot.com/spell:eyebite",
+    "nome_pt": "Olhar Maligno"
   },
   {
     "slug": "find-the-path",
@@ -5529,7 +5989,8 @@
     "duracao": "Concentração, até 1 dia",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:find-the-path"
+    "link": "https://dnd5e.wikidot.com/spell:find-the-path",
+    "nome_pt": "Encontrar o Caminho"
   },
   {
     "slug": "fizbans-platinum-shield",
@@ -5541,7 +6002,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:fizbans-platinum-shield"
+    "link": "https://dnd5e.wikidot.com/spell:fizbans-platinum-shield",
+    "nome_pt": "Escudo Platinado de Fizban"
   },
   {
     "slug": "fizban-s-platinum-shield-ua",
@@ -5553,7 +6015,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:fizban-s-platinum-shield-ua"
+    "link": "https://dnd5e.wikidot.com/spell:fizban-s-platinum-shield-ua",
+    "nome_pt": "Escudo Platinado de Fizban (UA)"
   },
   {
     "slug": "flesh-to-stone",
@@ -5565,7 +6028,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:flesh-to-stone"
+    "link": "https://dnd5e.wikidot.com/spell:flesh-to-stone",
+    "nome_pt": "Carne para Pedra"
   },
   {
     "slug": "forbiddance",
@@ -5577,7 +6041,8 @@
     "duracao": "1 dia",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:forbiddance"
+    "link": "https://dnd5e.wikidot.com/spell:forbiddance",
+    "nome_pt": "Interdição"
   },
   {
     "slug": "globe-of-invulnerability",
@@ -5589,7 +6054,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:globe-of-invulnerability"
+    "link": "https://dnd5e.wikidot.com/spell:globe-of-invulnerability",
+    "nome_pt": "Globo de Invulnerabilidade"
   },
   {
     "slug": "gravity-fissure",
@@ -5601,7 +6067,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:gravity-fissure"
+    "link": "https://dnd5e.wikidot.com/spell:gravity-fissure",
+    "nome_pt": "Fissura Gravitacional"
   },
   {
     "slug": "guards-and-wards",
@@ -5613,7 +6080,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:guards-and-wards"
+    "link": "https://dnd5e.wikidot.com/spell:guards-and-wards",
+    "nome_pt": "Guardas e Proteções"
   },
   {
     "slug": "harm",
@@ -5625,7 +6093,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:harm"
+    "link": "https://dnd5e.wikidot.com/spell:harm",
+    "nome_pt": "Ferir"
   },
   {
     "slug": "heal",
@@ -5637,7 +6106,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:heal"
+    "link": "https://dnd5e.wikidot.com/spell:heal",
+    "nome_pt": "Curar"
   },
   {
     "slug": "heroes-feast",
@@ -5649,7 +6119,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:heroes-feast"
+    "link": "https://dnd5e.wikidot.com/spell:heroes-feast",
+    "nome_pt": "Banquete dos Heróis"
   },
   {
     "slug": "investiture-of-flame",
@@ -5661,7 +6132,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:investiture-of-flame"
+    "link": "https://dnd5e.wikidot.com/spell:investiture-of-flame",
+    "nome_pt": "Investidura de Chamas"
   },
   {
     "slug": "investiture-of-ice",
@@ -5673,7 +6145,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:investiture-of-ice"
+    "link": "https://dnd5e.wikidot.com/spell:investiture-of-ice",
+    "nome_pt": "Investidura de Gelo"
   },
   {
     "slug": "investiture-of-stone",
@@ -5685,7 +6158,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:investiture-of-stone"
+    "link": "https://dnd5e.wikidot.com/spell:investiture-of-stone",
+    "nome_pt": "Investidura de Pedra"
   },
   {
     "slug": "investiture-of-wind",
@@ -5697,7 +6171,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:investiture-of-wind"
+    "link": "https://dnd5e.wikidot.com/spell:investiture-of-wind",
+    "nome_pt": "Investidura de Vento"
   },
   {
     "slug": "magic-jar",
@@ -5709,7 +6184,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:magic-jar"
+    "link": "https://dnd5e.wikidot.com/spell:magic-jar",
+    "nome_pt": "Receptáculo Mágico"
   },
   {
     "slug": "mass-suggestion",
@@ -5721,7 +6197,8 @@
     "duracao": "24 horas",
     "componentes": "V, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mass-suggestion"
+    "link": "https://dnd5e.wikidot.com/spell:mass-suggestion",
+    "nome_pt": "Sugestão em Massa"
   },
   {
     "slug": "mental-prison",
@@ -5733,7 +6210,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:mental-prison"
+    "link": "https://dnd5e.wikidot.com/spell:mental-prison",
+    "nome_pt": "Prisão Mental"
   },
   {
     "slug": "move-earth",
@@ -5745,7 +6223,8 @@
     "duracao": "Concentração, até 2 horas",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:move-earth"
+    "link": "https://dnd5e.wikidot.com/spell:move-earth",
+    "nome_pt": "Mover Terra"
   },
   {
     "slug": "otherworldly-form",
@@ -5757,7 +6236,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:otherworldly-form"
+    "link": "https://dnd5e.wikidot.com/spell:otherworldly-form",
+    "nome_pt": "Forma de Outro Mundo (UA)"
   },
   {
     "slug": "otilukes-freezing-sphere",
@@ -5769,7 +6249,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:otilukes-freezing-sphere"
+    "link": "https://dnd5e.wikidot.com/spell:otilukes-freezing-sphere",
+    "nome_pt": "Esfera Congelante de Otiluke"
   },
   {
     "slug": "ottos-irresistible-dance",
@@ -5781,7 +6262,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:ottos-irresistible-dance"
+    "link": "https://dnd5e.wikidot.com/spell:ottos-irresistible-dance",
+    "nome_pt": "Dança Irresistível de Otto"
   },
   {
     "slug": "planar-ally",
@@ -5793,7 +6275,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:planar-ally"
+    "link": "https://dnd5e.wikidot.com/spell:planar-ally",
+    "nome_pt": "Aliado Planar"
   },
   {
     "slug": "primordial-ward",
@@ -5805,7 +6288,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:primordial-ward"
+    "link": "https://dnd5e.wikidot.com/spell:primordial-ward",
+    "nome_pt": "Proteção Primordial"
   },
   {
     "slug": "programmed-illusion",
@@ -5817,7 +6301,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:programmed-illusion"
+    "link": "https://dnd5e.wikidot.com/spell:programmed-illusion",
+    "nome_pt": "Ilusão Programada"
   },
   {
     "slug": "psychic-crush",
@@ -5829,7 +6314,8 @@
     "duracao": "1 minuto",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:psychic-crush"
+    "link": "https://dnd5e.wikidot.com/spell:psychic-crush",
+    "nome_pt": "Esmagamento Psíquico (UA)"
   },
   {
     "slug": "scatter",
@@ -5841,7 +6327,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:scatter"
+    "link": "https://dnd5e.wikidot.com/spell:scatter",
+    "nome_pt": "Dispersar"
   },
   {
     "slug": "soul-cage",
@@ -5853,7 +6340,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:soul-cage"
+    "link": "https://dnd5e.wikidot.com/spell:soul-cage",
+    "nome_pt": "Jaula de Almas"
   },
   {
     "slug": "summon-fiend",
@@ -5865,7 +6353,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:summon-fiend"
+    "link": "https://dnd5e.wikidot.com/spell:summon-fiend",
+    "nome_pt": "Convocar Corruptor"
   },
   {
     "slug": "sunbeam",
@@ -5877,7 +6366,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:sunbeam"
+    "link": "https://dnd5e.wikidot.com/spell:sunbeam",
+    "nome_pt": "Raio Solar"
   },
   {
     "slug": "tashas-otherworldly-guise",
@@ -5889,7 +6379,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:tashas-otherworldly-guise"
+    "link": "https://dnd5e.wikidot.com/spell:tashas-otherworldly-guise",
+    "nome_pt": "Disfarce Sobrenatural de Tasha"
   },
   {
     "slug": "tensers-transformation",
@@ -5901,7 +6392,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:tensers-transformation"
+    "link": "https://dnd5e.wikidot.com/spell:tensers-transformation",
+    "nome_pt": "Transformação de Tenser"
   },
   {
     "slug": "transport-via-plants",
@@ -5913,7 +6405,8 @@
     "duracao": "1 rodada",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:transport-via-plants"
+    "link": "https://dnd5e.wikidot.com/spell:transport-via-plants",
+    "nome_pt": "Transporte Vegetal"
   },
   {
     "slug": "true-seeing",
@@ -5925,7 +6418,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:true-seeing"
+    "link": "https://dnd5e.wikidot.com/spell:true-seeing",
+    "nome_pt": "Visão da Verdade"
   },
   {
     "slug": "wall-of-ice",
@@ -5937,7 +6431,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wall-of-ice"
+    "link": "https://dnd5e.wikidot.com/spell:wall-of-ice",
+    "nome_pt": "Muralha de Gelo"
   },
   {
     "slug": "wall-of-thorns",
@@ -5949,7 +6444,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:wall-of-thorns"
+    "link": "https://dnd5e.wikidot.com/spell:wall-of-thorns",
+    "nome_pt": "Muralha de Espinhos"
   },
   {
     "slug": "wind-walk",
@@ -5961,7 +6457,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:wind-walk"
+    "link": "https://dnd5e.wikidot.com/spell:wind-walk",
+    "nome_pt": "Caminhar no Vento"
   },
   {
     "slug": "word-of-recall",
@@ -5973,7 +6470,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:word-of-recall"
+    "link": "https://dnd5e.wikidot.com/spell:word-of-recall",
+    "nome_pt": "Palavra de Retorno"
   },
   {
     "slug": "conjure-celestial",
@@ -5985,7 +6483,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-celestial"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-celestial",
+    "nome_pt": "Conjurar Celestial"
   },
   {
     "slug": "conjure-hezrou",
@@ -5997,7 +6496,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:conjure-hezrou"
+    "link": "https://dnd5e.wikidot.com/spell:conjure-hezrou",
+    "nome_pt": "Conjurar Hezrou (UA)"
   },
   {
     "slug": "create-magen",
@@ -6009,7 +6509,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:create-magen"
+    "link": "https://dnd5e.wikidot.com/spell:create-magen",
+    "nome_pt": "Criar Magen"
   },
   {
     "slug": "crown-of-stars",
@@ -6021,7 +6522,8 @@
     "duracao": "1 hora",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:crown-of-stars"
+    "link": "https://dnd5e.wikidot.com/spell:crown-of-stars",
+    "nome_pt": "Coroa de Estrelas"
   },
   {
     "slug": "delayed-blast-fireball",
@@ -6033,7 +6535,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:delayed-blast-fireball"
+    "link": "https://dnd5e.wikidot.com/spell:delayed-blast-fireball",
+    "nome_pt": "Bola de Fogo Retardada"
   },
   {
     "slug": "divine-word",
@@ -6045,7 +6548,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:divine-word"
+    "link": "https://dnd5e.wikidot.com/spell:divine-word",
+    "nome_pt": "Palavra Divina"
   },
   {
     "slug": "draconic-transformation",
@@ -6057,7 +6561,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:draconic-transformation"
+    "link": "https://dnd5e.wikidot.com/spell:draconic-transformation",
+    "nome_pt": "Transformação Dracônica"
   },
   {
     "slug": "draconic-transformation-ua",
@@ -6069,7 +6574,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:draconic-transformation-ua"
+    "link": "https://dnd5e.wikidot.com/spell:draconic-transformation-ua",
+    "nome_pt": "Transformação Dracônica (UA)"
   },
   {
     "slug": "dream-of-the-blue-veil",
@@ -6081,7 +6587,8 @@
     "duracao": "6 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:dream-of-the-blue-veil"
+    "link": "https://dnd5e.wikidot.com/spell:dream-of-the-blue-veil",
+    "nome_pt": "Sonho do Véu Azul"
   },
   {
     "slug": "etherealness",
@@ -6093,7 +6600,8 @@
     "duracao": "Até 8 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:etherealness"
+    "link": "https://dnd5e.wikidot.com/spell:etherealness",
+    "nome_pt": "Etereidade"
   },
   {
     "slug": "finger-of-death",
@@ -6105,7 +6613,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:finger-of-death"
+    "link": "https://dnd5e.wikidot.com/spell:finger-of-death",
+    "nome_pt": "Dedo da Morte"
   },
   {
     "slug": "fire-storm",
@@ -6117,7 +6626,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:fire-storm"
+    "link": "https://dnd5e.wikidot.com/spell:fire-storm",
+    "nome_pt": "Tempestade de Fogo"
   },
   {
     "slug": "forcecage",
@@ -6129,7 +6639,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:forcecage"
+    "link": "https://dnd5e.wikidot.com/spell:forcecage",
+    "nome_pt": "Jaula de Força"
   },
   {
     "slug": "mirage-arcane",
@@ -6141,7 +6652,8 @@
     "duracao": "10 dias",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mirage-arcane"
+    "link": "https://dnd5e.wikidot.com/spell:mirage-arcane",
+    "nome_pt": "Miragem Arcana"
   },
   {
     "slug": "mordenkainens-magnificent-mansion",
@@ -6153,7 +6665,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mordenkainens-magnificent-mansion"
+    "link": "https://dnd5e.wikidot.com/spell:mordenkainens-magnificent-mansion",
+    "nome_pt": "Mansão Magnífica de Mordenkainen"
   },
   {
     "slug": "mordenkainens-sword",
@@ -6165,7 +6678,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:mordenkainens-sword"
+    "link": "https://dnd5e.wikidot.com/spell:mordenkainens-sword",
+    "nome_pt": "Espada de Mordenkainen"
   },
   {
     "slug": "plane-shift",
@@ -6177,7 +6691,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:plane-shift"
+    "link": "https://dnd5e.wikidot.com/spell:plane-shift",
+    "nome_pt": "Mudança de Plano"
   },
   {
     "slug": "power-word-pain",
@@ -6189,7 +6704,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:power-word-pain"
+    "link": "https://dnd5e.wikidot.com/spell:power-word-pain",
+    "nome_pt": "Palavra de Poder: Dor"
   },
   {
     "slug": "prismatic-spray",
@@ -6201,7 +6717,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:prismatic-spray"
+    "link": "https://dnd5e.wikidot.com/spell:prismatic-spray",
+    "nome_pt": "Spray Prismático"
   },
   {
     "slug": "project-image",
@@ -6213,7 +6730,8 @@
     "duracao": "Concentração, até 1 dia",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:project-image"
+    "link": "https://dnd5e.wikidot.com/spell:project-image",
+    "nome_pt": "Projetar Imagem"
   },
   {
     "slug": "regenerate",
@@ -6225,7 +6743,8 @@
     "duracao": "1 hora",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:regenerate"
+    "link": "https://dnd5e.wikidot.com/spell:regenerate",
+    "nome_pt": "Regenerar"
   },
   {
     "slug": "resurrection",
@@ -6237,7 +6756,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:resurrection"
+    "link": "https://dnd5e.wikidot.com/spell:resurrection",
+    "nome_pt": "Ressurreição"
   },
   {
     "slug": "reverse-gravity",
@@ -6249,7 +6769,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:reverse-gravity"
+    "link": "https://dnd5e.wikidot.com/spell:reverse-gravity",
+    "nome_pt": "Inverter Gravidade"
   },
   {
     "slug": "sequester",
@@ -6261,7 +6782,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sequester"
+    "link": "https://dnd5e.wikidot.com/spell:sequester",
+    "nome_pt": "Sequestrar"
   },
   {
     "slug": "simulacrum",
@@ -6273,7 +6795,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:simulacrum"
+    "link": "https://dnd5e.wikidot.com/spell:simulacrum",
+    "nome_pt": "Simulacro"
   },
   {
     "slug": "symbol",
@@ -6285,7 +6808,8 @@
     "duracao": "Até ser dissipada ou disparada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:symbol"
+    "link": "https://dnd5e.wikidot.com/spell:symbol",
+    "nome_pt": "Símbolo"
   },
   {
     "slug": "teleport",
@@ -6297,7 +6821,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:teleport"
+    "link": "https://dnd5e.wikidot.com/spell:teleport",
+    "nome_pt": "Teleporte"
   },
   {
     "slug": "temple-of-the-gods",
@@ -6309,7 +6834,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:temple-of-the-gods"
+    "link": "https://dnd5e.wikidot.com/spell:temple-of-the-gods",
+    "nome_pt": "Templo dos Deuses"
   },
   {
     "slug": "tether-essence",
@@ -6321,7 +6847,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:tether-essence"
+    "link": "https://dnd5e.wikidot.com/spell:tether-essence",
+    "nome_pt": "Atar Essência"
   },
   {
     "slug": "whirlwind",
@@ -6333,7 +6860,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:whirlwind"
+    "link": "https://dnd5e.wikidot.com/spell:whirlwind",
+    "nome_pt": "Turbilhão"
   },
   {
     "slug": "abi-dalzims-horrid-wilting",
@@ -6345,7 +6873,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:abi-dalzims-horrid-wilting"
+    "link": "https://dnd5e.wikidot.com/spell:abi-dalzims-horrid-wilting",
+    "nome_pt": "Murchamento Horrendo de Abi-Dalzim"
   },
   {
     "slug": "animal-shapes",
@@ -6357,7 +6886,8 @@
     "duracao": "Concentração, até 24 horas",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:animal-shapes"
+    "link": "https://dnd5e.wikidot.com/spell:animal-shapes",
+    "nome_pt": "Formas Animais"
   },
   {
     "slug": "antimagic-field",
@@ -6369,7 +6899,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:antimagic-field"
+    "link": "https://dnd5e.wikidot.com/spell:antimagic-field",
+    "nome_pt": "Campo Antimagia"
   },
   {
     "slug": "antipathy-sympathy",
@@ -6381,7 +6912,8 @@
     "duracao": "10 dias",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:antipathy-sympathy"
+    "link": "https://dnd5e.wikidot.com/spell:antipathy-sympathy",
+    "nome_pt": "Antipatia e Simpatia"
   },
   {
     "slug": "clone",
@@ -6393,7 +6925,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:clone"
+    "link": "https://dnd5e.wikidot.com/spell:clone",
+    "nome_pt": "Clone"
   },
   {
     "slug": "control-weather",
@@ -6405,7 +6938,8 @@
     "duracao": "Concentração, até 8 horas",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:control-weather"
+    "link": "https://dnd5e.wikidot.com/spell:control-weather",
+    "nome_pt": "Controlar o Clima"
   },
   {
     "slug": "dark-star",
@@ -6417,7 +6951,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dark-star"
+    "link": "https://dnd5e.wikidot.com/spell:dark-star",
+    "nome_pt": "Estrela Negra"
   },
   {
     "slug": "demiplane",
@@ -6429,7 +6964,8 @@
     "duracao": "1 hora",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:demiplane"
+    "link": "https://dnd5e.wikidot.com/spell:demiplane",
+    "nome_pt": "Semiplano"
   },
   {
     "slug": "dominate-monster",
@@ -6441,7 +6977,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:dominate-monster"
+    "link": "https://dnd5e.wikidot.com/spell:dominate-monster",
+    "nome_pt": "Dominar Monstro"
   },
   {
     "slug": "earthquake",
@@ -6453,7 +6990,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:earthquake"
+    "link": "https://dnd5e.wikidot.com/spell:earthquake",
+    "nome_pt": "Terremoto"
   },
   {
     "slug": "feeblemind",
@@ -6465,7 +7003,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:feeblemind"
+    "link": "https://dnd5e.wikidot.com/spell:feeblemind",
+    "nome_pt": "Debilitar"
   },
   {
     "slug": "glibness",
@@ -6477,7 +7016,8 @@
     "duracao": "1 hora",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:glibness"
+    "link": "https://dnd5e.wikidot.com/spell:glibness",
+    "nome_pt": "Eloquência"
   },
   {
     "slug": "holy-aura",
@@ -6489,7 +7029,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:holy-aura"
+    "link": "https://dnd5e.wikidot.com/spell:holy-aura",
+    "nome_pt": "Aura Sagrada"
   },
   {
     "slug": "illusory-dragon",
@@ -6501,7 +7042,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:illusory-dragon"
+    "link": "https://dnd5e.wikidot.com/spell:illusory-dragon",
+    "nome_pt": "Dragão Ilusório"
   },
   {
     "slug": "incendiary-cloud",
@@ -6513,7 +7055,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:incendiary-cloud"
+    "link": "https://dnd5e.wikidot.com/spell:incendiary-cloud",
+    "nome_pt": "Nuvem Incendiária"
   },
   {
     "slug": "maddening-darkness",
@@ -6525,7 +7068,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:maddening-darkness"
+    "link": "https://dnd5e.wikidot.com/spell:maddening-darkness",
+    "nome_pt": "Escuridão Enlouquecedora"
   },
   {
     "slug": "maze",
@@ -6537,7 +7081,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:maze"
+    "link": "https://dnd5e.wikidot.com/spell:maze",
+    "nome_pt": "Labirinto"
   },
   {
     "slug": "mighty-fortress",
@@ -6549,7 +7094,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mighty-fortress"
+    "link": "https://dnd5e.wikidot.com/spell:mighty-fortress",
+    "nome_pt": "Fortaleza Poderosa"
   },
   {
     "slug": "mind-blank",
@@ -6561,7 +7107,8 @@
     "duracao": "24 horas",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mind-blank"
+    "link": "https://dnd5e.wikidot.com/spell:mind-blank",
+    "nome_pt": "Mente em Branco"
   },
   {
     "slug": "power-word-stun",
@@ -6573,7 +7120,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:power-word-stun"
+    "link": "https://dnd5e.wikidot.com/spell:power-word-stun",
+    "nome_pt": "Palavra de Poder: Atordoar"
   },
   {
     "slug": "reality-break",
@@ -6585,7 +7133,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:reality-break"
+    "link": "https://dnd5e.wikidot.com/spell:reality-break",
+    "nome_pt": "Ruptura da Realidade"
   },
   {
     "slug": "sunburst",
@@ -6597,7 +7146,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:sunburst"
+    "link": "https://dnd5e.wikidot.com/spell:sunburst",
+    "nome_pt": "Explosão Solar"
   },
   {
     "slug": "telepathy",
@@ -6609,7 +7159,8 @@
     "duracao": "24 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:telepathy"
+    "link": "https://dnd5e.wikidot.com/spell:telepathy",
+    "nome_pt": "Telepatia"
   },
   {
     "slug": "tsunami",
@@ -6621,7 +7172,8 @@
     "duracao": "Concentração, até 6 rodadas",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:tsunami"
+    "link": "https://dnd5e.wikidot.com/spell:tsunami",
+    "nome_pt": "Tsunâmi"
   },
   {
     "slug": "astral-projection",
@@ -6633,7 +7185,8 @@
     "duracao": "Especial",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:astral-projection"
+    "link": "https://dnd5e.wikidot.com/spell:astral-projection",
+    "nome_pt": "Projeção Astral"
   },
   {
     "slug": "blade-of-disaster",
@@ -6645,7 +7198,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:blade-of-disaster"
+    "link": "https://dnd5e.wikidot.com/spell:blade-of-disaster",
+    "nome_pt": "Lâmina do Desastre"
   },
   {
     "slug": "foresight",
@@ -6657,7 +7211,8 @@
     "duracao": "8 horas",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:foresight"
+    "link": "https://dnd5e.wikidot.com/spell:foresight",
+    "nome_pt": "Presciência"
   },
   {
     "slug": "gate",
@@ -6669,7 +7224,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:gate"
+    "link": "https://dnd5e.wikidot.com/spell:gate",
+    "nome_pt": "Portal"
   },
   {
     "slug": "imprisonment",
@@ -6681,7 +7237,8 @@
     "duracao": "Até ser dissipada",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:imprisonment"
+    "link": "https://dnd5e.wikidot.com/spell:imprisonment",
+    "nome_pt": "Aprisionamento"
   },
   {
     "slug": "invulnerability",
@@ -6693,7 +7250,8 @@
     "duracao": "Concentração, até 10 minutos",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:invulnerability"
+    "link": "https://dnd5e.wikidot.com/spell:invulnerability",
+    "nome_pt": "Invulnerabilidade"
   },
   {
     "slug": "mass-heal",
@@ -6705,7 +7263,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:mass-heal"
+    "link": "https://dnd5e.wikidot.com/spell:mass-heal",
+    "nome_pt": "Cura em Massa"
   },
   {
     "slug": "mass-polymorph",
@@ -6717,7 +7276,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:mass-polymorph"
+    "link": "https://dnd5e.wikidot.com/spell:mass-polymorph",
+    "nome_pt": "Metamorfose em Massa"
   },
   {
     "slug": "meteor-swarm",
@@ -6729,7 +7289,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:meteor-swarm"
+    "link": "https://dnd5e.wikidot.com/spell:meteor-swarm",
+    "nome_pt": "Chuva de Meteoros"
   },
   {
     "slug": "power-word-heal",
@@ -6741,7 +7302,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:power-word-heal"
+    "link": "https://dnd5e.wikidot.com/spell:power-word-heal",
+    "nome_pt": "Palavra de Poder: Curar"
   },
   {
     "slug": "power-word-kill",
@@ -6753,7 +7315,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:power-word-kill"
+    "link": "https://dnd5e.wikidot.com/spell:power-word-kill",
+    "nome_pt": "Palavra de Poder: Matar"
   },
   {
     "slug": "prismatic-wall",
@@ -6765,7 +7328,8 @@
     "duracao": "10 minutos",
     "componentes": "V, S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:prismatic-wall"
+    "link": "https://dnd5e.wikidot.com/spell:prismatic-wall",
+    "nome_pt": "Muralha Prismática"
   },
   {
     "slug": "psychic-scream",
@@ -6777,7 +7341,8 @@
     "duracao": "Instantânea",
     "componentes": "S",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:psychic-scream"
+    "link": "https://dnd5e.wikidot.com/spell:psychic-scream",
+    "nome_pt": "Grito Psíquico"
   },
   {
     "slug": "ravenous-void",
@@ -6789,7 +7354,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:ravenous-void"
+    "link": "https://dnd5e.wikidot.com/spell:ravenous-void",
+    "nome_pt": "Vazio Voraz"
   },
   {
     "slug": "shapechange",
@@ -6801,7 +7367,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:shapechange"
+    "link": "https://dnd5e.wikidot.com/spell:shapechange",
+    "nome_pt": "Mudar de Forma"
   },
   {
     "slug": "storm-of-vengeance",
@@ -6813,7 +7380,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:storm-of-vengeance"
+    "link": "https://dnd5e.wikidot.com/spell:storm-of-vengeance",
+    "nome_pt": "Tempestade da Vingança"
   },
   {
     "slug": "time-ravage",
@@ -6825,7 +7393,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:time-ravage"
+    "link": "https://dnd5e.wikidot.com/spell:time-ravage",
+    "nome_pt": "Devastação Temporal"
   },
   {
     "slug": "time-stop",
@@ -6837,7 +7406,8 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:time-stop"
+    "link": "https://dnd5e.wikidot.com/spell:time-stop",
+    "nome_pt": "Parar o Tempo"
   },
   {
     "slug": "true-polymorph",
@@ -6849,7 +7419,8 @@
     "duracao": "Concentração, até 1 hora",
     "componentes": "V, S, M",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:true-polymorph"
+    "link": "https://dnd5e.wikidot.com/spell:true-polymorph",
+    "nome_pt": "Metamorfose Verdadeira"
   },
   {
     "slug": "true-resurrection",
@@ -6861,7 +7432,8 @@
     "duracao": "Instantânea",
     "componentes": "V, S, M",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:true-resurrection"
+    "link": "https://dnd5e.wikidot.com/spell:true-resurrection",
+    "nome_pt": "Ressurreição Verdadeira"
   },
   {
     "slug": "weird",
@@ -6873,7 +7445,8 @@
     "duracao": "Concentração, até 1 minuto",
     "componentes": "V, S",
     "concentracao": true,
-    "link": "https://dnd5e.wikidot.com/spell:weird"
+    "link": "https://dnd5e.wikidot.com/spell:weird",
+    "nome_pt": "Pesadelo"
   },
   {
     "slug": "wish",
@@ -6885,6 +7458,7 @@
     "duracao": "Instantânea",
     "componentes": "V",
     "concentracao": false,
-    "link": "https://dnd5e.wikidot.com/spell:wish"
+    "link": "https://dnd5e.wikidot.com/spell:wish",
+    "nome_pt": "Desejo"
   }
 ]

@@ -16,6 +16,7 @@ import {
 import { apiFetch, apiJson } from "@/lib/client-api";
 import type { SpellRow } from "@/lib/database.types";
 import { NOME_CIRCULO } from "@/lib/spells";
+import { traduzNoNavegador } from "@/lib/translate-browser";
 
 type Destaque = { rotulo: string; valor: string };
 
@@ -86,7 +87,9 @@ export function SpellDetails({
   const [carregando, setCarregando] = useState(false);
   const [guardando, setGuardando] = useState(false);
   const [emIngles, setEmIngles] = useState(false);
+  const [traduzindoAgora, setTraduzindoAgora] = useState(false);
   const buscando = useRef<string | null>(null);
+  const traduzindo = useRef<string | null>(null);
 
   const slug = alvo?.slug ?? null;
   const lida = slug ? lidas[slug] : undefined;
@@ -126,6 +129,35 @@ export function SpellDetails({
 
     setCarregando(true);
   }, [slug, lidas]);
+
+  /**
+   * O servidor não traduziu (a cota do IP dele acabou), então a tela tenta
+   * pelo IP de casa e manda o resultado para o cofre guardar.
+   */
+  useEffect(() => {
+    if (!slug || !lida || lida.traduzido || traduzindo.current === slug) return;
+
+    traduzindo.current = slug;
+    setTraduzindoAgora(true);
+
+    traduzNoNavegador(lida.original)
+      .then(async (cru) => {
+        if (!cru) return;
+        const payload = await apiFetch<{ texto: string }>(
+          `/api/spells/catalog/${slug}`,
+          apiJson("POST", { texto: cru }),
+        );
+        setLidas((current) => ({
+          ...current,
+          [slug]: { ...current[slug], texto: payload.texto, traduzido: true },
+        }));
+      })
+      .catch(() => {
+        // Sem tradução a tela já mostra o inglês avisando, então aqui o
+        // silêncio é melhor do que mais um aviso em cima.
+      })
+      .finally(() => setTraduzindoAgora(false));
+  }, [slug, lida]);
 
   async function guardar() {
     if (!alvo?.spellId || !texto) return;
@@ -244,7 +276,14 @@ export function SpellDetails({
                 <Loader2 className="size-3.5 animate-spin text-muted-foreground" />
               )}
 
-              {lida && !lida.traduzido && (
+              {traduzindoAgora && (
+                <span className="flex items-center gap-1 text-[0.65rem] text-muted-foreground">
+                  <Loader2 className="size-3 animate-spin" />
+                  traduzindo
+                </span>
+              )}
+
+              {lida && !lida.traduzido && !traduzindoAgora && (
                 <span className="text-[0.65rem] text-amber-300">
                   sem tradução agora, segue o original
                 </span>
