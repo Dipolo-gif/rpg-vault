@@ -3,13 +3,14 @@
 Cofre pessoal de personagens de RPG de mesa. Cada usuário entra na própria conta
 e encontra só as fichas dele.
 
-A tela do personagem tem oito abas:
+A tela do personagem tem nove abas:
 
 | Aba | O que faz |
 | --- | --- |
 | **Ficha** | atributos, proficiência, CA, iniciativa, deslocamento, medidores, testes de resistência e perícias. É aqui que você preenche |
 | **Combate** | acerto, CD e o dano montado sozinho, uma expressão para cada arma |
 | **Inventário** | itens com efeitos passivos, cargas, e as habilidades ativas e passivas de cada um |
+| **Magias** | espaços por círculo, como na ficha de papel, com as 574 magias do guia e o texto completo de cada uma |
 | **Classe** | habilidades que a classe dá em cada nível |
 | **Fluxo** | habilidades que o personagem tem por si, sem depender de item |
 | **Talentos** | talentos adquiridos, com catálogo dos guias da mesa e efeito automático |
@@ -177,6 +178,65 @@ casa é só ajustar.
 O catálogo está em [`src/lib/classes.ts`](src/lib/classes.ts).
 
 ---
+
+## Magias
+
+A aba Magias é a seção de magias da ficha de papel, com os espaços salvos.
+
+Cada círculo tem a fileira de espaços em cima e as magias dele embaixo. Você
+digita quantos espaços tem e clica nas bolinhas para gastar: clicar em uma já
+gasta devolve ela e as seguintes. **O gasto fica salvo sozinho**, sem botão,
+porque ninguém quer apertar salvar no meio da luta. O botão **Descanso longo**
+devolve tudo de uma vez. Truque fica no topo e não gasta espaço.
+
+Escolhendo o atributo de conjuração, a **CD** e o **acerto com magia** saem da
+conta padrão (8 + proficiência + modificador, e proficiência + modificador),
+usando o valor do atributo já com o que talento e item somam.
+
+### O guia e o texto das magias
+
+O botão **Do guia** abre as 574 magias de
+[dnd5e.wikidot.com](https://dnd5e.wikidot.com/spells), com busca por nome e
+filtro por círculo. O catálogo guarda o que a ficha mostra, já em português e
+com as distâncias em metros: escola, tempo de conjuração, alcance, duração e
+componentes. Para atualizar:
+
+```bash
+node scripts/gera-magias.mjs
+```
+
+**Clicar no nome abre o texto completo da magia, em português**, buscado na
+hora na página dela. Em cima do texto vem uma linha de destaques tirados da
+própria regra, o que você olha no meio do turno: dano, cura, teste de
+resistência, tipo de ataque, área, se o sucesso corta o dano pela metade e o
+que muda ao usar um espaço maior. Fireball, por exemplo, abre com `8d6 de
+fogo`, `Destreza`, `6 m de raio`, `metade do dano` e `mais 1d6 por círculo
+acima`.
+
+### Como a tradução funciona
+
+A página é em inglês, então o servidor traduz antes de entregar, em três
+passos, em [`src/lib/spell-text.ts`](src/lib/spell-text.ts):
+
+1. **as distâncias viram metros ainda em inglês** ("20-foot radius" vira "6 m
+   radius"), senão o tradutor devolve "raio de 6 pés" e a conta sai errada;
+2. o corpo vai para o **MyMemory**, serviço gratuito e sem chave, parágrafo
+   por parágrafo;
+3. um **glossário de D&D** conserta o vocabulário por cima, porque tradutor
+   automático erra sempre o mesmo: "saving throw" vira "jogada de salvamento"
+   e na mesa é teste de resistência, "spell" vira "feitiço", "spell slot" vira
+   "slot". Depois um passo de concordância arruma o artigo que sobra trocado
+   ("este magia" vira "esta magia").
+
+O resultado fica em memória, então reabrir a mesma magia não traduz de novo.
+Se o serviço estiver fora ou a cota do dia acabar, a tela mostra o texto em
+inglês avisando, em vez de entregar meia tradução. O botão **Ver o original**
+mostra o inglês quando você quiser conferir.
+
+O texto não fica no repositório: é lido da página quando você abre. O botão
+**Guardar na ficha** copia o texto traduzido para a descrição daquela magia no
+seu cofre, e aí ele vale offline e você edita do jeito que a sua mesa usa.
+Magia inventada na mesa entra pelo botão **Nova magia**, com os mesmos campos.
 
 ## 1. Arquitetura
 
@@ -401,6 +461,10 @@ partir de `attributes`, já que a sua ficha nomeia os campos de forma previsíve
 | PATCH / DELETE | `/api/items/[id]` | edita e remove item, liga e desliga, ajusta cargas |
 | GET / POST | `/api/characters/[id]/abilities` | habilidades de item, fluxo e talento |
 | PATCH / DELETE | `/api/abilities/[id]` | edita, e é por onde a habilidade ativa liga e desliga |
+| GET / POST | `/api/characters/[id]/spells` | magias do personagem; o POST aceita `catalog_slug` para puxar do guia |
+| PATCH / DELETE | `/api/spells/[id]` | edita, prepara e remove uma magia |
+| GET | `/api/spells/catalog` | as 574 do guia, só os dados da ficha (aceita `?nivel=3`) |
+| GET | `/api/spells/catalog/[slug]` | texto completo e destaques de uma magia, lidos da página dela |
 | POST | `/api/items/[id]/image` | arte do item (multipart, campo `file`) |
 | GET / POST | `/api/characters/[id]/assets` | galeria: lista e faz upload |
 | PATCH / DELETE | `/api/assets/[id]` | renomeia, reclassifica e remove |

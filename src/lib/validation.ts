@@ -144,6 +144,19 @@ export const customFieldsSchema = z.object({
     .max(60),
 });
 
+const espacoSchema = z.object({
+  total: z.number().int().min(0).max(99),
+  usados: z.number().int().min(0).max(99),
+});
+
+export const spellsBlockSchema = z.object({
+  atributo: z.string().trim().max(40),
+  /** A chave é o número do círculo, de 1 a 9. */
+  espacos: z.record(z.string().max(2), espacoSchema),
+  pontos: espacoSchema,
+  pontos_label: z.string().trim().max(60),
+});
+
 const vitalSchema = z.object({
   current: z.number().int().min(-999).max(9999),
   max: z.number().int().min(0).max(9999).nullable(),
@@ -161,6 +174,7 @@ export const updateStatsSchema = z
     combat: combatSchema.optional(),
     skills: skillsSchema.optional(),
     custom: customFieldsSchema.optional(),
+    magias: spellsBlockSchema.optional(),
     notes: z.string().max(20000).nullable().optional(),
   })
   .refine((value) => Object.keys(value).length > 0, {
@@ -249,6 +263,54 @@ export const updateAssetSchema = z
   .object({
     title: z.string().trim().max(160).nullable().optional(),
     file_type: assetKindSchema.optional(),
+  })
+  .refine((value) => Object.keys(value).length > 0, {
+    message: "Nada para atualizar",
+  });
+
+/* ------------------------------------------------------------------ */
+/* Magias                                                               */
+/* ------------------------------------------------------------------ */
+
+const spellTexto = (max: number) =>
+  z.string().trim().max(max).nullable().optional();
+
+export const createSpellSchema = z.object({
+  /** Quando vem do guia, o servidor completa o resto a partir do catálogo. */
+  catalog_slug: z.string().trim().max(120).optional(),
+  name: trimmed(160).optional(),
+  level: z.number().int().min(0).max(9).optional(),
+  school: spellTexto(40),
+  casting_time: spellTexto(80),
+  range: spellTexto(80),
+  components: spellTexto(120),
+  duration: spellTexto(80),
+  concentration: z.boolean().optional(),
+  ritual: z.boolean().optional(),
+  prepared: z.boolean().optional(),
+  always_prepared: z.boolean().optional(),
+  reference_url: z.string().trim().url().max(300).nullable().optional(),
+  description_html: richText,
+  description_text: z.string().max(50000).nullable().optional(),
+});
+
+export const updateSpellSchema = z
+  .object({
+    name: trimmed(160).optional(),
+    level: z.number().int().min(0).max(9).optional(),
+    school: spellTexto(40),
+    casting_time: spellTexto(80),
+    range: spellTexto(80),
+    components: spellTexto(120),
+    duration: spellTexto(80),
+    concentration: z.boolean().optional(),
+    ritual: z.boolean().optional(),
+    prepared: z.boolean().optional(),
+    always_prepared: z.boolean().optional(),
+    reference_url: z.string().trim().url().max(300).nullable().optional(),
+    description_html: richText,
+    description_text: z.string().max(50000).nullable().optional(),
+    sort_order: z.number().int().min(0).max(9999).optional(),
   })
   .refine((value) => Object.keys(value).length > 0, {
     message: "Nada para atualizar",

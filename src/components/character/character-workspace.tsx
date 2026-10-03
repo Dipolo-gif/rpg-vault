@@ -10,6 +10,7 @@ import {
   ScrollText,
   Swords,
   Wand2,
+  WandSparkles,
 } from "lucide-react";
 import { toast } from "sonner";
 
@@ -20,6 +21,7 @@ import { GalleryTab } from "@/components/character/gallery-tab";
 import { InventoryTab } from "@/components/character/inventory-tab";
 import { LoreTab } from "@/components/character/lore-tab";
 import { SheetTab } from "@/components/character/sheet-tab";
+import { SpellTab } from "@/components/character/spell-tab";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { apiFetch, apiJson } from "@/lib/client-api";
 import type {
@@ -29,6 +31,7 @@ import type {
   CharacterWithSignedUrls,
   MagicItemRow,
   MagicItemWithUrl,
+  SpellRow,
 } from "@/lib/database.types";
 import { getSystem, mergeSystem, readCustom } from "@/lib/systems";
 
@@ -38,6 +41,7 @@ const TABS = [
   { id: "ficha", label: "Ficha", icon: ScrollText },
   { id: "combate", label: "Combate", icon: Swords },
   { id: "inventario", label: "Inventário", icon: Package },
+  { id: "magias", label: "Magias", icon: WandSparkles },
   { id: "classe", label: "Classe", icon: GraduationCap },
   { id: "fluxo", label: "Fluxo", icon: Wand2 },
   { id: "talentos", label: "Talentos", icon: Sparkles },
@@ -58,18 +62,21 @@ export function CharacterWorkspace({
   initialItems,
   initialAssets,
   initialAbilities,
+  initialSpells,
 }: {
   initialCharacter: CharacterWithSignedUrls;
   initialStats: CharacterStatsRow;
   initialItems: MagicItemWithUrl[];
   initialAssets: AssetWithUrl[];
   initialAbilities: AbilityRow[];
+  initialSpells: SpellRow[];
 }) {
   const [character, setCharacter] = useState(initialCharacter);
   const [stats, setStats] = useState(initialStats);
   const [items, setItems] = useState(initialItems);
   const [assets, setAssets] = useState(initialAssets);
   const [abilities, setAbilities] = useState(initialAbilities);
+  const [spells, setSpells] = useState(initialSpells);
 
   // Preset do sistema mais os atributos e perícias que a mesa criou.
   const system = mergeSystem(
@@ -230,6 +237,28 @@ export function CharacterWorkspace({
     }
   }
 
+  /* ---------------------------------------------------------------- */
+  /* Magias                                                            */
+  /* ---------------------------------------------------------------- */
+
+  function spellSaved(saved: SpellRow, created: boolean) {
+    setSpells((current) =>
+      created
+        ? [...current, saved]
+        : current.map((spell) => (spell.id === saved.id ? saved : spell)),
+    );
+  }
+
+  async function spellDelete(spell: SpellRow) {
+    try {
+      await apiFetch(`/api/spells/${spell.id}`, { method: "DELETE" });
+      setSpells((current) => current.filter((entry) => entry.id !== spell.id));
+      toast.success("Magia removida");
+    } catch (error) {
+      erro(error, "Falha ao remover");
+    }
+  }
+
   return (
     <main className="mx-auto w-full max-w-6xl px-4 py-6 sm:px-6 sm:py-8">
       <CharacterHero
@@ -288,6 +317,20 @@ export function CharacterWorkspace({
               onAbilitySaved={abilitySaved}
               onAbilityDelete={abilityDelete}
               onAbilityRecharge={abilityRecharge}
+            />
+          </TabsContent>
+
+          <TabsContent value="magias">
+            <SpellTab
+              characterId={character.id}
+              system={system}
+              stats={stats}
+              onStatsChange={setStats}
+              spells={spells}
+              items={items}
+              abilities={abilities}
+              onSpellSaved={spellSaved}
+              onSpellDelete={spellDelete}
             />
           </TabsContent>
 

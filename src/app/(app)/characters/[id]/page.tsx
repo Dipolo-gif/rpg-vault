@@ -44,8 +44,13 @@ export default async function CharacterPage({
   // A RLS devolve vazio para ficha de outro usuario, o que vira 404 aqui.
   if (!character) notFound();
 
-  const [{ data: stats }, { data: items }, { data: assets }, { data: abilities }] =
-    await Promise.all([
+  const [
+    { data: stats },
+    { data: items },
+    { data: assets },
+    { data: abilities },
+    { data: spells },
+  ] = await Promise.all([
       supabase
         .from("character_stats")
         .select("*")
@@ -68,6 +73,13 @@ export default async function CharacterPage({
         .eq("character_id", id)
         .order("sort_order")
         .order("created_at"),
+      supabase
+        .from("spells")
+        .select("*")
+        .eq("character_id", id)
+        .order("level")
+        .order("sort_order")
+        .order("name"),
     ]);
 
   const urls = await signPaths(supabase, [
@@ -95,6 +107,7 @@ export default async function CharacterPage({
     combat: {},
     skills: {},
     custom: {},
+    magias: {},
     notes: null,
     created_at: character.created_at,
     updated_at: character.updated_at,
@@ -112,6 +125,7 @@ export default async function CharacterPage({
       initialItems={itemsWithUrl}
       initialAssets={assetsWithUrl}
       initialAbilities={abilities ?? []}
+      initialSpells={spells ?? []}
     />
   );
 }

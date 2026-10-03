@@ -47,6 +47,8 @@ export type CharacterStatsRow = {
   skills: Json;
   /** Atributos e pericias proprios da mesa. Formato em src/lib/systems.ts */
   custom: Json;
+  /** Espacos por circulo e atributo de conjuracao. Formato em src/lib/spells.ts */
+  magias: Json;
   notes: string | null;
   created_at: string;
   updated_at: string;
@@ -101,6 +103,34 @@ export type AbilityRow = {
   uses_note: string | null;
   /** Formato em src/lib/effects.ts */
   effects: Json;
+  description_html: string | null;
+  description_text: string | null;
+  sort_order: number;
+  created_at: string;
+  updated_at: string;
+}
+
+export type SpellRow = {
+  id: string;
+  character_id: string;
+  user_id: string;
+  /** 0 é truque, que não gasta espaço. */
+  level: number;
+  name: string;
+  school: string | null;
+  casting_time: string | null;
+  range: string | null;
+  components: string | null;
+  duration: string | null;
+  concentration: boolean;
+  ritual: boolean;
+  /** O que está preparado hoje. */
+  prepared: boolean;
+  /** Magia de domínio, juramento ou item: não ocupa a lista do dia. */
+  always_prepared: boolean;
+  /** Chave no catálogo, quando veio de lá. */
+  catalog_slug: string | null;
+  reference_url: string | null;
   description_html: string | null;
   description_text: string | null;
   sort_order: number;
@@ -193,11 +223,39 @@ export type Database = {
           | "combat"
           | "skills"
           | "custom"
+          | "magias"
           | "notes"
           | "created_at"
           | "updated_at"
         >;
         Update: Partial<CharacterStatsRow>;
+        Relationships: [];
+      };
+      spells: {
+        Row: SpellRow;
+        Insert: Insert<
+          SpellRow,
+          | "id"
+          | "user_id"
+          | "level"
+          | "school"
+          | "casting_time"
+          | "range"
+          | "components"
+          | "duration"
+          | "concentration"
+          | "ritual"
+          | "prepared"
+          | "always_prepared"
+          | "catalog_slug"
+          | "reference_url"
+          | "description_html"
+          | "description_text"
+          | "sort_order"
+          | "created_at"
+          | "updated_at"
+        >;
+        Update: Partial<SpellRow>;
         Relationships: [];
       };
       magic_items: {
