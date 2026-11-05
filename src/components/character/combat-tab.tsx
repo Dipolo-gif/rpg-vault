@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
+import { Textarea } from "@/components/ui/textarea";
 import { apiFetch, apiJson } from "@/lib/client-api";
 import type {
   AbilityRow,
@@ -281,6 +282,16 @@ export function CombatTab({
                     Não entendi: {problemas.join(", ")}
                   </p>
                 )}
+                <Textarea
+                  value={weapon.descricao ?? ""}
+                  onChange={(event) =>
+                    setWeapon(index, { descricao: event.target.value })
+                  }
+                  placeholder="Descrição: modos de uso, alcance, o que a mesa combinou"
+                  maxLength={2000}
+                  className="mt-2 min-h-12 text-sm"
+                  aria-label="Descrição da arma"
+                />
               </div>
             );
           })
@@ -404,6 +415,12 @@ function CardDano({
       <p className="text-display mt-2 font-mono text-2xl font-semibold text-primary">
         {entrada.expressao}
       </p>
+
+      {entrada.weapon.descricao?.trim() && (
+        <p className="mt-2 text-sm whitespace-pre-line text-muted-foreground">
+          {entrada.weapon.descricao}
+        </p>
+      )}
 
       {entrada.porTipo.length > 1 && (
         <p className="mt-1 text-xs text-muted-foreground">

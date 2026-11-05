@@ -95,6 +95,7 @@ const looseWeaponSchema = z.object({
   nome: z.string().trim().max(120),
   dados: z.string().trim().max(40),
   tipo: z.string().trim().max(40),
+  descricao: z.string().max(2000).optional(),
 });
 
 export const combatSchema = z.object({

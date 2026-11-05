@@ -64,6 +64,8 @@ export type LooseWeapon = {
   nome: string;
   dados: string;
   tipo: string;
+  /** Anotação livre: modos de uso, alcance, o que a mesa combinou. */
+  descricao?: string;
 };
 
 export type CombatBlock = {
@@ -312,6 +314,8 @@ export type WeaponChoice = {
   origem: "item" | "avulsa";
   /** Item desativado continua na lista, mas avisando. */
   disponivel: boolean;
+  /** Anotação da arma avulsa, mostrada no card de dano. */
+  descricao?: string;
 };
 
 export function listWeapons(
@@ -338,6 +342,7 @@ export function listWeapons(
     tipo: weapon.tipo,
     origem: "avulsa",
     disponivel: true,
+    descricao: weapon.descricao,
   }));
 
   return [...doInventario, ...avulsas];
