@@ -64,6 +64,7 @@ export const SYSTEMS: SystemDef[] = [
       { key: "int", label: "Inteligência", short: "INT" },
       { key: "sab", label: "Sabedoria", short: "SAB" },
       { key: "car", label: "Carisma", short: "CAR" },
+      { key: "san", label: "Sanidade", short: "SAN" },
     ],
     vitals: [
       { key: "hp", label: "Pontos de vida", hasMax: true, bar: "bg-rose-500", defaultMax: 20 },
@@ -119,6 +120,7 @@ export const SYSTEMS: SystemDef[] = [
       { key: "int", label: "Inteligência", short: "INT" },
       { key: "sab", label: "Sabedoria", short: "SAB" },
       { key: "car", label: "Carisma", short: "CAR" },
+      { key: "san", label: "Sanidade", short: "SAN" },
     ],
     vitals: [
       { key: "pv", label: "Pontos de vida", hasMax: true, bar: "bg-rose-500", defaultMax: 20 },
@@ -274,6 +276,15 @@ const PERICIAS_DND: SkillDef[] = [
   { key: "prestidigitacao", label: "Prestidigitação", attribute: "des" },
   { key: "religiao", label: "Religião", attribute: "int" },
   { key: "sobrevivencia", label: "Sobrevivência", attribute: "sab" },
+  // Perícias da mesa, que todo personagem tem como se fossem do livro.
+  { key: "hacking", label: "Hacking", attribute: "int" },
+  { key: "pilotagem", label: "Pilotagem", attribute: "des" },
+  { key: "esquiva", label: "Esquiva", attribute: "des" },
+  { key: "metabolismo", label: "Metabolismo", attribute: "con" },
+  { key: "cyberarcanismo", label: "Cyberarcanismo", attribute: "int" },
+  { key: "engenharia", label: "Engenharia", attribute: "int" },
+  { key: "malandragem", label: "Malandragem", attribute: "sab" },
+  { key: "autocontrole", label: "Autocontrole", attribute: "san" },
 ];
 
 /** Lista da ficha "Chamas da Guerra", extraída dos campos do PDF. */
